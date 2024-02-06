@@ -1,0 +1,1384 @@
+genome	order_color	color	Phylum	Class	Order	Family_old	Family	Genus	Family_AKA	other
+ERX552283.12.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX552283.12.dc
+ERX552295.44.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX552295.44.dc
+ERX552309.9.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX552309.9.dc
+ERX552333.20.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX552333.20.dc
+ERX552336.20.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX552336.20.dc
+ERX552357.22.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX552357.22.dc
+ERX555907.107.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX555907.107.dc
+ERX555961.17.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX555961.17.dc
+ERX555987.30.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX555987.30.dc
+ERX556034.38.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX556034.38.dc
+ERX556034.40.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX556034.40.dc
+ERX556035.15.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX556035.15.dc
+ERX556037.11.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX556037.11.dc
+ERX556040.51.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX556040.51.dc
+ERX556059.7.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX556059.7.dc
+ERX556075.42.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX556075.42.dc
+ERX556101.60.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX556101.60.dc
+ERX633348.16.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	ERX633348.16.dc
+GCA.000889515.1.ViralProj61009	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	Bathycoccus sp. RCC1105 virus BpV1 
+GCA.000890375.1.ViralProj61013	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	Micromonas sp. RCC1109 virus MpV1 
+GCA.000906035.1.ViralProj195482	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	Micromonas pusilla virus 12T strain=12T
+GCA.001399265.1.ViralProj298990	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	Ostreococcus mediterraneus virus 1 OmV1
+GCA.001399285.1.ViralProj298920	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	Ostreococcus lucimarinus virus 2 Olv2
+GCA.003051645.1.ASM305164v1	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	Bathycoccus sp. RCC1105 virus BpV2 
+GCA.003051685.1.ASM305168v1	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	Ostreococcus tauri virus RT-2011 OtV6
+GCA.003225975.1.ASM322597v1	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	Ostreococcus lucimarinus virus OlV4 strain=OlV4
+GCA.010974705.1.ASM1097470v1	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	Micromonas pusilla virus PL1 strain=PL1
+GCA.011604425.1.ASM1160442v1	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	Dishui Lake phycodnavirus 3 
+GCA.011604435.1.ASM1160443v1	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	Dishui Lake phycodnavirus 4 
+GVMAG-M-3300009071-15	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-M-3300009071-15
+GVMAG-M-3300020178-15	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-M-3300020178-15
+GVMAG-M-3300020178-21	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-M-3300020178-21
+GVMAG-M-3300021389-45	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-M-3300021389-45
+GVMAG-M-3300022925-12	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-M-3300022925-12
+GVMAG-M-3300023087-13	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-M-3300023087-13
+GVMAG-M-3300023087-9	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-M-3300023087-9
+GVMAG-M-3300025652-16	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-M-3300025652-16
+GVMAG-M-3300027206-1	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-M-3300027206-1
+GVMAG-M-3300027906-13	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-M-3300027906-13
+GVMAG-S-1037362-78	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-1037362-78
+GVMAG-S-1037371-165	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-1037371-165
+GVMAG-S-1037377-104	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-1037377-104
+GVMAG-S-1037377-112	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-1037377-112
+GVMAG-S-1040241-146	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-1040241-146
+GVMAG-S-1059923-44	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-1059923-44
+GVMAG-S-1074264-73	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-1074264-73
+GVMAG-S-1074330-31	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-1074330-31
+GVMAG-S-1092447-28	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-1092447-28
+GVMAG-S-1092455-40	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-1092455-40
+GVMAG-S-1102104-120	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-1102104-120
+GVMAG-S-1102110-122	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-1102110-122
+GVMAG-S-3300000117-106	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-3300000117-106
+GVMAG-S-403982-53	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-403982-53
+GVMAG-S-ERX555927-67	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-ERX555927-67
+GVMAG-S-ERX556003-78	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-ERX556003-78
+GVMAG-S-ERX556005-85	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-ERX556005-85
+GVMAG-S-ERX556109-35	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	GVMAG-S-ERX556109-35
+SRX514547.24.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	SRX514547.24.dc
+SRX802076.50.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	SRX802076.50.dc
+SRX802143.75.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g177	Prasinoviridae	SRX802143.75.dc
+ERX555976.71.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g178	Prasinoviridae	ERX555976.71.dc
+GCA.011604415.1.ASM1160441v1	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g178	Prasinoviridae	Dishui Lake phycodnavirus 2 
+GVMAG-M-3300022934-23	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g179	Prasinoviridae	GVMAG-M-3300022934-23
+GCA.002937195.1.ASM293719v1	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g180	Prasinoviridae	Dishui lake phycodnavirus 1 strain=1
+ERX555967.111.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g181	Prasinoviridae	ERX555967.111.dc
+ERX943717.70.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g181	Prasinoviridae	ERX943717.70.dc
+ERX633354.21.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g182	Prasinoviridae	ERX633354.21.dc
+ERX633356.9.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g182	Prasinoviridae	ERX633356.9.dc
+GCA.001430455.1.ViralProj300257	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g182	Prasinoviridae	Yellowstone lake phycodnavirus 2 
+GCA.001430655.1.ViralProj300258	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g182	Prasinoviridae	Yellowstone lake phycodnavirus 1 
+GVMAG-S-1035142-103	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g182	Prasinoviridae	GVMAG-S-1035142-103
+SRX871251.15.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g182	Prasinoviridae	SRX871251.15.dc
+GVMAG-M-3300021963-39	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g183	Prasinoviridae	GVMAG-M-3300021963-39
+GVMAG-S-1017421-20	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_01	AG_01	g183	Prasinoviridae	GVMAG-S-1017421-20
+GCA.000847045.1.ViralProj14564	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_02	AG_02	g184	Phycodnaviridae	Paramecium bursaria Chlorella virus 1 
+GCA.000867825.1.ViralProj18305	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_02	AG_02	g184	Phycodnaviridae	Paramecium bursaria Chlorella virus FR483 strain=FR483
+GCA.000869685.1.ViralProj18527	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_02	AG_02	g184	Phycodnaviridae	Acanthocystis turfacea chlorella virus 1 strain=ATCV-1
+GCA.000873685.1.ViralProj20989	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_02	AG_02	g184	Phycodnaviridae	Paramecium bursaria Chlorella virus NY2A strain=NY-2A
+GCA.001887825.1.ViralProj355304	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_02	AG_02	g184	Phycodnaviridae	Only Syngen Nebraska virus 5 OSyNE-5
+GCA.003069485.1.ASM306948v1	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_02	AG_02	g184	Phycodnaviridae	Paramecium bursaria chlorella virus MT325 strain=MT325
+SRX272783.128.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_02	AG_02	g185	Phycodnaviridae	SRX272783.128.dc
+GVMAG-S-1026894-110	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_02	AG_02	g186	Phycodnaviridae	GVMAG-S-1026894-110
+GVMAG-S-1026894-114	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_02	AG_02	g187	Phycodnaviridae	GVMAG-S-1026894-114
+SRX327520.45.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_02	AG_02	g188	Phycodnaviridae	SRX327520.45.dc
+ERX552270.8.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_03	AG_03	g189		ERX552270.8.dc
+ERX552270.7.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_03	AG_03	g190		ERX552270.7.dc
+GVMAG-S-ERX555907-72	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_03	AG_03	g191		GVMAG-S-ERX555907-72
+GVMAG-S-ERX555967-131	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_03	AG_03	g192		GVMAG-S-ERX555967-131
+SRX802077.116.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_03	AG_03	g193		SRX802077.116.dc
+ERX555907.69.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_03	AG_03	g194		ERX555907.69.dc
+ERX552270.64.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_03	AG_03	g195		ERX552270.64.dc
+GVMAG-S-3300002154-22	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_03	AG_03	g196		GVMAG-S-3300002154-22
+ERX552261.44.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_03	AG_03	g197		ERX552261.44.dc
+GVMAG-M-3300019759-3	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g165		GVMAG-M-3300019759-3
+GVMAG-S-1004280-25	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g166		GVMAG-S-1004280-25
+GVMAG-M-3300007345-3	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g167		GVMAG-M-3300007345-3
+GVMAG-M-3300009182-67	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g168		GVMAG-M-3300009182-67
+GVMAG-M-3300023184-53	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g168		GVMAG-M-3300023184-53
+GVMAG-M-3300021473-15	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g169		GVMAG-M-3300021473-15
+GCA.002827745.1.ASM282774v1	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g170		Heterosigma akashiwo virus 01 HaV53
+SRX802202.24.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g171		SRX802202.24.dc
+ERX552270.119.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g172		ERX552270.119.dc
+ERX552274.3.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g172		ERX552274.3.dc
+ERX552283.9.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g172		ERX552283.9.dc
+ERX555917.66.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g172		ERX555917.66.dc
+ERX556101.9.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g172		ERX556101.9.dc
+GVMAG-M-3300009160-32	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g172		GVMAG-M-3300009160-32
+SRX802143.131.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g172		SRX802143.131.dc
+GVMAG-M-3300027771-3	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g173		GVMAG-M-3300027771-3
+GVMAG-M-3300027791-30	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g173		GVMAG-M-3300027791-30
+GVMAG-M-3300017971-26	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g174		GVMAG-M-3300017971-26
+ERX556017.11.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g175		ERX556017.11.dc
+ERX556034.5.dc	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g175		ERX556034.5.dc
+GVMAG-S-ERX555961-93	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g175		GVMAG-S-ERX555961-93
+GVMAG-S-ERX556101-89	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g175		GVMAG-S-ERX556101-89
+GVMAG-S-1102113-118	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g176		GVMAG-S-1102113-118
+GVMAG-S-1102113-126	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_04	AG_04	g176		GVMAG-S-1102113-126
+GVMAG-M-3300017741-2	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_incertae_sedis	AG_incertae_sedis	g198		GVMAG-M-3300017741-2
+GVMAG-M-3300025626-8	#008000	08AF02	Nucleocytoviricota	Megaviricetes	Algavirales	LP_incertae_sedis	AG_incertae_sedis	g198		GVMAG-M-3300025626-8
+ERX552270.50.dc	#008000	8E8E8E	Nucleocytoviricota	Megaviricetes	Algavirales	LP_incertae_sedis	AG_incertae_sedis	g199		ERX552270.50.dc
+GVMAG-S-3300002466-141	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g15	Asfarviridae	GVMAG-S-3300002466-141
+GCA.002116175.1.ViralProj381648	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g16	Asfarviridae	Kaumoebavirus Sc
+GVMAG-M-3300027793-10	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g17	Asfarviridae	GVMAG-M-3300027793-10
+GVMAG-M-3300014204-45	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g18	Asfarviridae	GVMAG-M-3300014204-45
+SRX802982.1.dc	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g19	Asfarviridae	SRX802982.1.dc
+GCA.002114025.1.ViralProj384397	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g20	Asfarviridae	Pacmanvirus A23 strain=A23
+SRX327722.61.dc	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g21	Asfarviridae	SRX327722.61.dc
+GCA.003051145.1.ASM305114v1	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g22	Asfarviridae	Faustovirus strain=D5b
+GCA.003051705.1.ASM305170v1	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g22	Asfarviridae	Faustovirus strain=E12
+GCA.900176665.1.PRJEB20203	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g22	Asfarviridae	Faustovirus ST1 strain=ST1
+GVMAG-M-3300013133-40	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g23	Asfarviridae	GVMAG-M-3300013133-40
+GVMAG-M-3300023184-110	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g24	Asfarviridae	GVMAG-M-3300023184-110
+GVMAG-M-3300023184-186	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g24	Asfarviridae	GVMAG-M-3300023184-186
+GVMAG-M-3300027707-33	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g24	Asfarviridae	GVMAG-M-3300027707-33
+GVMAG-M-3300022916-57	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g25	Asfarviridae	GVMAG-M-3300022916-57
+GCA.003047755.1.ASM304775v1	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g26	Asfarviridae	African swine fever virus Georgia 2007/1 strain=Georgia 2007/1
+GCA.003815255.1.ASM381525v1	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g26	Asfarviridae	African swine fever virus strain=R35
+AbALV	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g27	Asfarviridae	AbALV
+GVMAG-M-3300027833-19	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_01	AF_01	g28	Asfarviridae	GVMAG-M-3300027833-19
+GVMAG-S-3300009702-144	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_03	AF_02	g29		GVMAG-S-3300009702-144
+GVMAG-M-3300023174-150	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_03	AF_02	g30		GVMAG-M-3300023174-150
+GVMAG-M-3300009068-46	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_03	AF_02	g31		GVMAG-M-3300009068-46
+GVMAG-M-3300023174-161	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_03	AF_02	g32		GVMAG-M-3300023174-161
+SRX802963.109.dc	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_03	AF_02	g33		SRX802963.109.dc
+GVMAG-M-3300010160-26	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_03	AF_02	g34		GVMAG-M-3300010160-26
+GVMAG-M-3300009436-29	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_03	AF_02	g35		GVMAG-M-3300009436-29
+SRX319064.32.dc	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_incertae_sedis	AF_incertae_sedis	g13		SRX319064.32.dc
+GVMAG-M-3300024062-1	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_incertae_sedis	AF_incertae_sedis	g14		GVMAG-M-3300024062-1
+GVMAG-S-1035124-107	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_04	AF_incertae_sedis	g36		GVMAG-S-1035124-107
+SRX319065.14.dc	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_04	AF_incertae_sedis	g36		SRX319065.14.dc
+GVMAG-M-3300013005-64	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_04	AF_incertae_sedis	g37		GVMAG-M-3300013005-64
+ERX552270.16.dc	#bf9000	E9CA03	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	AF_incertae_sedis	AF_incertae_sedis	g38		ERX552270.16.dc
+GCA.000839965.1.ViralProj14155	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Swinepox virus 17077-99
+GCA.000845705.1.ViralProj14466	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Yaba monkey tumor virus 
+GCA.000847185.1.ViralProj14595	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Yaba-like disease virus 
+GCA.000847965.1.ViralProj14590	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Rabbit fibroma virus strain=Kasza
+GCA.000892975.1.ViralProj72715	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Yokapox virus strain=DakArB 4268
+GCA.001029045.1.ViralProj287042	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Raccoonpox virus strain=Herman
+GCA.001744115.1.ViralProj344208	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Volepox virus strain=CA
+GCA.001745695.1.ViralProj344115	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Skunkpox virus strain=WA
+GCA.001907825.1.ViralProj357638	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	BeAn 58058 virus strain=BeAn58058
+GCA.002270885.1.ViralProj399945	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Murmansk poxvirus strain=LEIV-11411
+GCA.002354965.1.ViralProj406966	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Squirrelpox virus Berlin_2015 strain=Berlin_2015
+GCA.002354985.1.ViralProj395094	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Eptesipox virus strain=Washington
+GCA.005411835.1.ASM541183v1	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Myxoma virus Toledo
+GCA.006458285.1.ASM645828v1	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Lumpy skin disease virus NW-LW Neethling Warmbaths LW
+GCA.006465565.1.ASM646556v1	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Deerpox virus W-1170-84 W-1170-84
+GCA.006466005.1.ASM646600v1	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Cotia virus strain=SPAn880
+GCA.009909525.1.ASM990952v1	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Cetacean poxvirus 1 strain=CePV-TA
+GCA.900327605.1.lib01460new	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g1	Poxviridae	Cowpox virus Ger/2015/Prairie-dog
+GCA.000916855.1.ViralProj237470	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g10	Poxviridae	Anomala cuprea entomopoxvirus strain=CV6M
+GCA.000838565.1.ViralProj14042	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g11	Poxviridae	Melanoplus sanguinipes entomopoxvirus 'O' Tucson
+GCA.001695465.1.ViralProj331044	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g2	Poxviridae	Pteropox virus strain=Australia
+GCA.003260795.1.ASM326079v1	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g2	Poxviridae	Sea otter poxvirus strain=ELK
+GCA.000844045.1.ViralProj14469	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g3	Poxviridae	Bovine papular stomatitis virus strain=BV-AR02
+GCA.000844845.1.ViralProj14464	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g3	Poxviridae	Orf virus strain=OV-SA00
+GCA.000886295.1.ViralProj45973	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g3	Poxviridae	Pseudocowpox virus strain=VR634
+GCA.000930695.1.ViralProj271121	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g3	Poxviridae	Parapoxvirus red deer/HL953 strain=HL953
+GCA.002219465.1.ViralProj394314	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g3	Poxviridae	Seal parapoxvirus AFK76s1
+GCA.000913615.1.ViralProj223065	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g4	Poxviridae	Squirrelpox virus strain=Red squirrel UK
+GCA.000843325.1.ViralProj14328	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g5	Poxviridae	Molluscum contagiosum virus subtype 1 
+GCA.000838605.1.ViralProj14052	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g6	Poxviridae	Fowlpox virus 
+GCA.000841685.1.ViralProj14340	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g6	Poxviridae	Canarypox virus strain=ATCC VR-111
+GCA.000923135.1.ViralProj253477	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g6	Poxviridae	Penguinpox virus PSan92
+GCA.001431935.1.ViralProj301027	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g6	Poxviridae	Turkeypox virus strain=TKPV-HU1124/2011
+GCA.006450615.1.ASM645061v1	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g6	Poxviridae	Shearwaterpox virus strain=SWPV-1
+GCA.006452015.1.ASM645201v1	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g6	Poxviridae	Eastern grey kangaroopox virus strain=NSW
+GCA.000869065.1.ViralProj16798	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g7	Poxviridae	Nile crocodilepox virus 
+GCA.006451235.1.ASM645123v1	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g7	Poxviridae	Saltwater crocodilepox virus 
+GCA.001271235.1.ViralProj293081	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g8	Poxviridae	Salmon gill poxvirus 2012-04-F277-L3G
+GCA.000427115.1.CBEV.1	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g9	Poxviridae	Choristoneura biennis entomopoxvirus 
+GCA.000427135.1.AHEV.1	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g9	Poxviridae	Adoxophyes honmai entomopoxvirus 'L' Tokyo
+GCA.000427155.1.MySEV.1	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g9	Poxviridae	Mythimna separata entomopoxvirus 'L' 
+GCA.000837185.1.ViralProj14097	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_01	PX_01	g9	Poxviridae	Amsacta moorei entomopoxvirus 
+GVMAG-M-3300010151-7	#cc0000	8E8E8E	Nucleocytoviricota	Pokkesviricetes	Chitovirales	PX_incertae_sedis	PX_incertae_sedis	g12		GVMAG-M-3300010151-7
+GVMAG-M-3300004806-7	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300004806-7
+GVMAG-M-3300009180-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300009180-16
+GVMAG-M-3300009184-42	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300009184-42
+GVMAG-M-3300010158-33	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300010158-33
+GVMAG-M-3300010158-60	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300010158-60
+GVMAG-M-3300010160-7	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300010160-7
+GVMAG-M-3300013285-6	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300013285-6
+GVMAG-M-3300021963-34	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300021963-34
+GVMAG-M-3300023174-129	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300023174-129
+GVMAG-M-3300023174-154	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300023174-154
+GVMAG-M-3300023174-196	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300023174-196
+GVMAG-M-3300023174-46	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300023174-46
+GVMAG-M-3300023179-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300023179-49
+GVMAG-M-3300023184-14	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300023184-14
+GVMAG-M-3300023184-70	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300023184-70
+GVMAG-M-3300023184-77	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300023184-77
+GVMAG-M-3300027747-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300027747-41
+GVMAG-M-3300027759-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300027759-16
+GVMAG-M-3300027804-12	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300027804-12
+GVMAG-M-3300027804-59	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300027804-59
+GVMAG-M-3300027969-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-M-3300027969-16
+GVMAG-S-1101161-73	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-S-1101161-73
+GVMAG-S-1101164-105	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-S-1101164-105
+GVMAG-S-1101171-110	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-S-1101171-110
+GVMAG-S-1101172-89	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-S-1101172-89
+GVMAG-S-1101179-79	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-S-1101179-79
+GVMAG-S-1101181-136	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-S-1101181-136
+GVMAG-S-1101182-85	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-S-1101182-85
+GVMAG-S-3300010158-104	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-S-3300010158-104
+GVMAG-S-3300010158-137	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-S-3300010158-137
+GVMAG-S-3300013006-138	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		GVMAG-S-3300013006-138
+SRX331965.10.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g314		SRX331965.10.dc
+GVMAG-M-3300004806-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g315		GVMAG-M-3300004806-1
+GVMAG-M-3300009183-5	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g315		GVMAG-M-3300009183-5
+GVMAG-M-3300023179-97	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g315		GVMAG-M-3300023179-97
+GVMAG-M-3300023184-62	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g315		GVMAG-M-3300023184-62
+GVMAG-S-1006664-89	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g315		GVMAG-S-1006664-89
+GVMAG-M-3300009183-73	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-M-3300009183-73
+GVMAG-M-3300013004-44	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-M-3300013004-44
+GVMAG-M-3300018868-17	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-M-3300018868-17
+GVMAG-M-3300023174-141	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-M-3300023174-141
+GVMAG-M-3300023174-176	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-M-3300023174-176
+GVMAG-M-3300023174-60	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-M-3300023174-60
+GVMAG-M-3300023179-10	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-M-3300023179-10
+GVMAG-M-3300023184-121	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-M-3300023184-121
+GVMAG-M-3300023184-88	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-M-3300023184-88
+GVMAG-S-1101164-72	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-S-1101164-72
+GVMAG-S-1101165-84	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-S-1101165-84
+GVMAG-S-3300010158-63	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-S-3300010158-63
+GVMAG-S-3300013006-131	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-S-3300013006-131
+GVMAG-S-3300013006-158	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-S-3300013006-158
+GVMAG-S-3300013093-109	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-S-3300013093-109
+GVMAG-S-3300013094-97	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-S-3300013094-97
+GVMAG-S-404869-56	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		GVMAG-S-404869-56
+SRX211342.63.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		SRX211342.63.dc
+SRX331703.51.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		SRX331703.51.dc
+SRX331950.28.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g316		SRX331950.28.dc
+GVMAG-M-3300027712-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g317		GVMAG-M-3300027712-16
+GVMAG-S-1101164-61	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g317		GVMAG-S-1101164-61
+GVMAG-S-3300013286-35	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g317		GVMAG-S-3300013286-35
+GVMAG-M-3300009151-43	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g318		GVMAG-M-3300009151-43
+GVMAG-M-3300009163-47	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g318		GVMAG-M-3300009163-47
+GVMAG-M-3300023174-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g318		GVMAG-M-3300023174-16
+GVMAG-M-3300023174-6	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g318		GVMAG-M-3300023174-6
+GVMAG-M-3300027963-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g318		GVMAG-M-3300027963-41
+GVMAG-S-1035414-12	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g318		GVMAG-S-1035414-12
+GVMAG-M-3300023174-132	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g319		GVMAG-M-3300023174-132
+GVMAG-M-3300023179-138	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g319		GVMAG-M-3300023179-138
+GVMAG-M-3300023179-74	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g319		GVMAG-M-3300023179-74
+GVMAG-M-3300027749-36	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g319		GVMAG-M-3300027749-36
+GVMAG-S-1035100-100	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g319		GVMAG-S-1035100-100
+GVMAG-S-1101174-84	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g319		GVMAG-S-1101174-84
+SRX331950.48.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g319		SRX331950.48.dc
+GVMAG-M-3300009068-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g320		GVMAG-M-3300009068-1
+GVMAG-M-3300013006-15	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g320		GVMAG-M-3300013006-15
+GVMAG-M-3300025316-29	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g320		GVMAG-M-3300025316-29
+GVMAG-M-3300012936-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g321		GVMAG-M-3300012936-1
+GVMAG-M-3300006119-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300006119-4
+GVMAG-M-3300009068-25	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300009068-25
+GVMAG-M-3300009151-50	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300009151-50
+GVMAG-M-3300009154-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300009154-19
+GVMAG-M-3300009164-40	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300009164-40
+GVMAG-M-3300009180-45	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300009180-45
+GVMAG-M-3300009181-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300009181-41
+GVMAG-M-3300009185-36	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300009185-36
+GVMAG-M-3300009185-7	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300009185-7
+GVMAG-M-3300009419-14	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300009419-14
+GVMAG-M-3300020572-5	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300020572-5
+GVMAG-M-3300020728-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300020728-1
+GVMAG-M-3300021120-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300021120-1
+GVMAG-M-3300021963-12	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300021963-12
+GVMAG-M-3300023174-47	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300023174-47
+GVMAG-M-3300023179-99	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300023179-99
+GVMAG-M-3300025778-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300025778-1
+GVMAG-M-3300027708-51	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300027708-51
+GVMAG-M-3300027734-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300027734-16
+GVMAG-M-3300027797-21	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-M-3300027797-21
+GVMAG-S-1035088-157	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-1035088-157
+GVMAG-S-1035133-146	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-1035133-146
+GVMAG-S-1035231-53	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-1035231-53
+GVMAG-S-1035231-58	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-1035231-58
+GVMAG-S-1035237-23	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-1035237-23
+GVMAG-S-1035315-10	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-1035315-10
+GVMAG-S-1035375-24	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-1035375-24
+GVMAG-S-1101164-164	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-1101164-164
+GVMAG-S-1101165-163	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-1101165-163
+GVMAG-S-1101168-145	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-1101168-145
+GVMAG-S-3300002307-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-3300002307-41
+GVMAG-S-3300013093-152	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-3300013093-152
+GVMAG-S-3300013286-51	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		GVMAG-S-3300013286-51
+SRX331965.39.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g322		SRX331965.39.dc
+GVMAG-M-3300009182-82	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g323		GVMAG-M-3300009182-82
+GVMAG-M-3300009684-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g323		GVMAG-M-3300009684-20
+GVMAG-M-3300013285-24	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g323		GVMAG-M-3300013285-24
+GVMAG-M-3300023184-135	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g323		GVMAG-M-3300023184-135
+GVMAG-M-3300023184-50	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g323		GVMAG-M-3300023184-50
+GVMAG-S-1035225-37	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g323		GVMAG-S-1035225-37
+GVMAG-S-1035303-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g323		GVMAG-S-1035303-20
+GVMAG-S-1101176-114	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g323		GVMAG-S-1101176-114
+GVMAG-S-1101178-127	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g323		GVMAG-S-1101178-127
+GVMAG-S-3300002092-30	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g323		GVMAG-S-3300002092-30
+GVMAG-S-3300013014-199	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g323		GVMAG-S-3300013014-199
+GVMAG-M-3300018080-29	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g324		GVMAG-M-3300018080-29
+SRX802202.37.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g325		SRX802202.37.dc
+GVMAG-M-3300018868-6	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g326		GVMAG-M-3300018868-6
+GVMAG-S-3300011013-78	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g326		GVMAG-S-3300011013-78
+ERX552246.27.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g327		ERX552246.27.dc
+GVMAG-M-3300017967-12	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g327		GVMAG-M-3300017967-12
+GVMAG-S-1030632-69	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g327		GVMAG-S-1030632-69
+GVMAG-S-3300000576-38	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g327		GVMAG-S-3300000576-38
+GVMAG-S-3300000576-45	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g327		GVMAG-S-3300000576-45
+GVMAG-S-3300000576-53	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g327		GVMAG-S-3300000576-53
+GVMAG-M-3300000517-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g328		GVMAG-M-3300000517-4
+SRX327520.18.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g328		SRX327520.18.dc
+ERX552243.80.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		ERX552243.80.dc
+ERX552270.87.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		ERX552270.87.dc
+ERX552288.39.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		ERX552288.39.dc
+ERX552292.53.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		ERX552292.53.dc
+ERX555933.22.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		ERX555933.22.dc
+ERX555965.5.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		ERX555965.5.dc
+ERX556054.25.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		ERX556054.25.dc
+GVMAG-M-3300009149-34	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300009149-34
+GVMAG-M-3300009425-37	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300009425-37
+GVMAG-M-3300012936-34	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300012936-34
+GVMAG-M-3300012936-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300012936-41
+GVMAG-M-3300017772-13	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300017772-13
+GVMAG-M-3300017786-5	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300017786-5
+GVMAG-M-3300017986-28	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300017986-28
+GVMAG-M-3300020169-51	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300020169-51
+GVMAG-M-3300020185-18	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300020185-18
+GVMAG-M-3300020185-23	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300020185-23
+GVMAG-M-3300020185-33	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300020185-33
+GVMAG-M-3300020185-35	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300020185-35
+GVMAG-M-3300020185-65	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300020185-65
+GVMAG-M-3300020187-69	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300020187-69
+GVMAG-M-3300021425-14	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300021425-14
+GVMAG-M-3300021959-33	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300021959-33
+GVMAG-M-3300023210-35	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300023210-35
+GVMAG-M-3300024230-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300024230-8
+GVMAG-M-3300024252-27	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300024252-27
+GVMAG-M-3300024261-37	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300024261-37
+GVMAG-M-3300024329-21	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300024329-21
+GVMAG-M-3300025654-17	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300025654-17
+GVMAG-M-3300025727-44	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300025727-44
+GVMAG-M-3300027779-64	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300027779-64
+GVMAG-M-3300027833-29	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-M-3300027833-29
+GVMAG-S-1039698-54	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-S-1039698-54
+GVMAG-S-1102244-55	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-S-1102244-55
+GVMAG-S-3300004097-149	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-S-3300004097-149
+GVMAG-S-ERX555997-40	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-S-ERX555997-40
+GVMAG-S-ERX555997-44	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-S-ERX555997-44
+GVMAG-S-ERX555997-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		GVMAG-S-ERX555997-49
+SRX802073.53.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		SRX802073.53.dc
+SRX802075.4.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		SRX802075.4.dc
+SRX802077.94.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g329		SRX802077.94.dc
+GVMAG-M-3300010158-55	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g330		GVMAG-M-3300010158-55
+GVMAG-M-3300023184-163	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g330		GVMAG-M-3300023184-163
+GVMAG-M-3300023184-17	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g330		GVMAG-M-3300023184-17
+GVMAG-M-3300027707-28	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g330		GVMAG-M-3300027707-28
+GVMAG-S-1035088-145	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g330		GVMAG-S-1035088-145
+GVMAG-S-1035118-87	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g330		GVMAG-S-1035118-87
+GVMAG-S-1101162-118	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g330		GVMAG-S-1101162-118
+GVMAG-S-3300005662-140	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g330		GVMAG-S-3300005662-140
+GVMAG-S-3300013093-130	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g330		GVMAG-S-3300013093-130
+ERX556003.31.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g331		ERX556003.31.dc
+ERX556088.18.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g331		ERX556088.18.dc
+GVMAG-S-ERX556045-73	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g331		GVMAG-S-ERX556045-73
+ERX552270.24.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g332		ERX552270.24.dc
+ERX555913.6.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g332		ERX555913.6.dc
+GVMAG-M-3300009498-22	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g332		GVMAG-M-3300009498-22
+GVMAG-S-ERX556045-52	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g333		GVMAG-S-ERX556045-52
+GVMAG-S-ERX556068-66	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g333		GVMAG-S-ERX556068-66
+ERX552274.9.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		ERX552274.9.dc
+ERX552296.34.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		ERX552296.34.dc
+ERX552302.25.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		ERX552302.25.dc
+ERX552302.47.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		ERX552302.47.dc
+ERX555926.39.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		ERX555926.39.dc
+ERX555967.90.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		ERX555967.90.dc
+GVMAG-M-3300009436-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		GVMAG-M-3300009436-41
+GVMAG-M-3300020595-13	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		GVMAG-M-3300020595-13
+GVMAG-M-3300021378-36	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		GVMAG-M-3300021378-36
+GVMAG-M-3300023210-14	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		GVMAG-M-3300023210-14
+GVMAG-S-3300012919-65	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		GVMAG-S-3300012919-65
+GVMAG-S-ERX555967-69	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		GVMAG-S-ERX555967-69
+oPacV.421	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		oPacV.421
+SRX802077.72.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		SRX802077.72.dc
+SRX802143.8.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g334		SRX802143.8.dc
+ERX552270.27.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		ERX552270.27.dc
+ERX552288.95.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		ERX552288.95.dc
+ERX552296.13.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		ERX552296.13.dc
+ERX552296.3.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		ERX552296.3.dc
+ERX555954.29.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		ERX555954.29.dc
+ERX555967.26.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		ERX555967.26.dc
+ERX556019.13.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		ERX556019.13.dc
+ERX556032.62.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		ERX556032.62.dc
+GVMAG-M-3300002242-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300002242-2
+GVMAG-M-3300003404-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300003404-4
+GVMAG-M-3300005662-30	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300005662-30
+GVMAG-M-3300005662-68	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300005662-68
+GVMAG-M-3300007522-55	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300007522-55
+GVMAG-M-3300009068-11	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009068-11
+GVMAG-M-3300009068-24	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009068-24
+GVMAG-M-3300009151-31	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009151-31
+GVMAG-M-3300009155-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009155-19
+GVMAG-M-3300009155-26	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009155-26
+GVMAG-M-3300009155-48	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009155-48
+GVMAG-M-3300009161-9	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009161-9
+GVMAG-M-3300009164-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009164-20
+GVMAG-M-3300009164-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009164-3
+GVMAG-M-3300009164-69	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009164-69
+GVMAG-M-3300009172-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009172-8
+GVMAG-M-3300009180-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009180-1
+GVMAG-M-3300009182-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009182-2
+GVMAG-M-3300009182-48	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009182-48
+GVMAG-M-3300009184-32	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009184-32
+GVMAG-M-3300009185-54	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009185-54
+GVMAG-M-3300009187-29	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009187-29
+GVMAG-M-3300009436-33	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009436-33
+GVMAG-M-3300009441-23	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300009441-23
+GVMAG-M-3300010157-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300010157-4
+GVMAG-M-3300010158-13	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300010158-13
+GVMAG-M-3300010158-36	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300010158-36
+GVMAG-M-3300010158-63	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300010158-63
+GVMAG-M-3300010368-24	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300010368-24
+GVMAG-M-3300013093-22	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300013093-22
+GVMAG-M-3300013093-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300013093-49
+GVMAG-M-3300017724-7	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300017724-7
+GVMAG-M-3300017950-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300017950-2
+GVMAG-M-3300017956-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300017956-3
+GVMAG-M-3300018049-14	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300018049-14
+GVMAG-M-3300018426-17	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300018426-17
+GVMAG-M-3300020182-22	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300020182-22
+GVMAG-M-3300020182-84	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300020182-84
+GVMAG-M-3300020187-94	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300020187-94
+GVMAG-M-3300020194-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300020194-16
+GVMAG-M-3300020726-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300020726-3
+GVMAG-M-3300020810-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300020810-20
+GVMAG-M-3300020810-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300020810-3
+GVMAG-M-3300021340-15	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300021340-15
+GVMAG-M-3300021375-17	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300021375-17
+GVMAG-M-3300021389-22	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300021389-22
+GVMAG-M-3300021958-43	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300021958-43
+GVMAG-M-3300021960-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300021960-2
+GVMAG-M-3300021961-46	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300021961-46
+GVMAG-M-3300021962-24	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300021962-24
+GVMAG-M-3300022752-80	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300022752-80
+GVMAG-M-3300022752-82	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300022752-82
+GVMAG-M-3300023173-22	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023173-22
+GVMAG-M-3300023174-100	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-100
+GVMAG-M-3300023174-111	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-111
+GVMAG-M-3300023174-124	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-124
+GVMAG-M-3300023174-134	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-134
+GVMAG-M-3300023174-138	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-138
+GVMAG-M-3300023174-188	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-188
+GVMAG-M-3300023174-193	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-193
+GVMAG-M-3300023174-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-2
+GVMAG-M-3300023174-203	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-203
+GVMAG-M-3300023174-24	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-24
+GVMAG-M-3300023174-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-3
+GVMAG-M-3300023174-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-49
+GVMAG-M-3300023174-92	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023174-92
+GVMAG-M-3300023175-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023175-3
+GVMAG-M-3300023179-152	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023179-152
+GVMAG-M-3300023179-166	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023179-166
+GVMAG-M-3300023179-34	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023179-34
+GVMAG-M-3300023179-59	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023179-59
+GVMAG-M-3300023179-90	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023179-90
+GVMAG-M-3300023184-105	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023184-105
+GVMAG-M-3300023184-115	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023184-115
+GVMAG-M-3300023184-120	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023184-120
+GVMAG-M-3300023184-155	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023184-155
+GVMAG-M-3300023184-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023184-16
+GVMAG-M-3300023184-168	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023184-168
+GVMAG-M-3300023184-182	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023184-182
+GVMAG-M-3300023184-188	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023184-188
+GVMAG-M-3300023184-190	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023184-190
+GVMAG-M-3300023184-68	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023184-68
+GVMAG-M-3300023184-81	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023184-81
+GVMAG-M-3300023210-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300023210-19
+GVMAG-M-3300024185-6	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300024185-6
+GVMAG-M-3300024258-28	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300024258-28
+GVMAG-M-3300024261-25	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300024261-25
+GVMAG-M-3300024261-26	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300024261-26
+GVMAG-M-3300024261-61	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300024261-61
+GVMAG-M-3300024261-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300024261-8
+GVMAG-M-3300024299-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300024299-4
+GVMAG-M-3300024311-5	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300024311-5
+GVMAG-M-3300024314-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300024314-16
+GVMAG-M-3300025617-32	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300025617-32
+GVMAG-M-3300025699-48	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300025699-48
+GVMAG-M-3300025880-30	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300025880-30
+GVMAG-M-3300027708-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300027708-20
+GVMAG-M-3300027708-30	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300027708-30
+GVMAG-M-3300027708-5	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300027708-5
+GVMAG-M-3300027732-33	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300027732-33
+GVMAG-M-3300027747-57	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300027747-57
+GVMAG-M-3300027752-12	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300027752-12
+GVMAG-M-3300027759-42	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300027759-42
+GVMAG-M-3300027892-35	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300027892-35
+GVMAG-M-3300027892-57	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300027892-57
+GVMAG-M-3300027892-70	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300027892-70
+GVMAG-M-3300027963-59	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300027963-59
+GVMAG-M-3300027969-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-M-3300027969-2
+GVMAG-S-1006664-93	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1006664-93
+GVMAG-S-1035082-51	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1035082-51
+GVMAG-S-1035082-55	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1035082-55
+GVMAG-S-1035112-32	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1035112-32
+GVMAG-S-1039734-46	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1039734-46
+GVMAG-S-1041346-184	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1041346-184
+GVMAG-S-1074260-36	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1074260-36
+GVMAG-S-1074335-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1074335-3
+GVMAG-S-1101161-78	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1101161-78
+GVMAG-S-1101162-94	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1101162-94
+GVMAG-S-1101164-67	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1101164-67
+GVMAG-S-1101166-70	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1101166-70
+GVMAG-S-1101166-76	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1101166-76
+GVMAG-S-1101171-111	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1101171-111
+GVMAG-S-1101171-112	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1101171-112
+GVMAG-S-1101171-113	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1101171-113
+GVMAG-S-1101178-88	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-1101178-88
+GVMAG-S-3300005662-148	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-3300005662-148
+GVMAG-S-3300005662-156	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-3300005662-156
+GVMAG-S-3300005662-174	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-3300005662-174
+GVMAG-S-3300012000-53	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-3300012000-53
+GVMAG-S-3300013014-110	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-3300013014-110
+GVMAG-S-3300013093-118	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-3300013093-118
+GVMAG-S-3300013093-85	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-3300013093-85
+GVMAG-S-3300013094-108	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-3300013094-108
+GVMAG-S-3300013285-29	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-3300013285-29
+GVMAG-S-ERX555943-30	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-ERX555943-30
+GVMAG-S-ERX555964-61	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-ERX555964-61
+GVMAG-S-ERX556031-46	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-ERX556031-46
+GVMAG-S-ERX556049-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		GVMAG-S-ERX556049-19
+SRX331950.6.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		SRX331950.6.dc
+SRX474032.80.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		SRX474032.80.dc
+SRX802073.18.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		SRX802073.18.dc
+SRX802073.61.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		SRX802073.61.dc
+SRX802073.68.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		SRX802073.68.dc
+SRX802073.74.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		SRX802073.74.dc
+SRX802143.26.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		SRX802143.26.dc
+SRX802202.132.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g335		SRX802202.132.dc
+ERX552296.31.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		ERX552296.31.dc
+GVMAG-M-3300002447-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300002447-3
+GVMAG-M-3300003395-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300003395-8
+GVMAG-M-3300004240-17	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300004240-17
+GVMAG-M-3300005662-62	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300005662-62
+GVMAG-M-3300006124-6	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300006124-6
+GVMAG-M-3300006752-9	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300006752-9
+GVMAG-M-3300009151-44	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009151-44
+GVMAG-M-3300009151-82	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009151-82
+GVMAG-M-3300009152-45	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009152-45
+GVMAG-M-3300009155-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009155-2
+GVMAG-M-3300009155-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009155-3
+GVMAG-M-3300009161-30	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009161-30
+GVMAG-M-3300009161-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009161-41
+GVMAG-M-3300009161-60	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009161-60
+GVMAG-M-3300009161-63	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009161-63
+GVMAG-M-3300009163-62	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009163-62
+GVMAG-M-3300009164-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009164-8
+GVMAG-M-3300009181-26	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009181-26
+GVMAG-M-3300009182-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009182-16
+GVMAG-M-3300009182-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009182-49
+GVMAG-M-3300009182-53	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009182-53
+GVMAG-M-3300009182-78	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009182-78
+GVMAG-M-3300009183-46	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009183-46
+GVMAG-M-3300009419-6	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009419-6
+GVMAG-M-3300009684-23	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300009684-23
+GVMAG-M-3300010158-59	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300010158-59
+GVMAG-M-3300010334-24	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300010334-24
+GVMAG-M-3300010370-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300010370-2
+GVMAG-M-3300018868-12	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300018868-12
+GVMAG-M-3300019093-7	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300019093-7
+GVMAG-M-3300020165-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300020165-3
+GVMAG-M-3300020165-47	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300020165-47
+GVMAG-M-3300021075-36	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300021075-36
+GVMAG-M-3300021079-11	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300021079-11
+GVMAG-M-3300021340-17	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300021340-17
+GVMAG-M-3300021378-40	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300021378-40
+GVMAG-M-3300022752-39	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300022752-39
+GVMAG-M-3300022752-94	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300022752-94
+GVMAG-M-3300023174-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023174-1
+GVMAG-M-3300023174-144	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023174-144
+GVMAG-M-3300023174-147	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023174-147
+GVMAG-M-3300023174-157	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023174-157
+GVMAG-M-3300023174-166	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023174-166
+GVMAG-M-3300023174-182	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023174-182
+GVMAG-M-3300023174-187	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023174-187
+GVMAG-M-3300023174-209	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023174-209
+GVMAG-M-3300023174-5	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023174-5
+GVMAG-M-3300023174-56	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023174-56
+GVMAG-M-3300023179-11	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023179-11
+GVMAG-M-3300023179-114	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023179-114
+GVMAG-M-3300023179-116	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023179-116
+GVMAG-M-3300023179-18	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023179-18
+GVMAG-M-3300023179-33	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023179-33
+GVMAG-M-3300023179-67	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023179-67
+GVMAG-M-3300023179-86	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023179-86
+GVMAG-M-3300023179-91	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023179-91
+GVMAG-M-3300023184-118	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023184-118
+GVMAG-M-3300023184-12	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023184-12
+GVMAG-M-3300023184-133	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023184-133
+GVMAG-M-3300023184-150	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023184-150
+GVMAG-M-3300023184-159	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023184-159
+GVMAG-M-3300023184-165	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023184-165
+GVMAG-M-3300023184-178	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023184-178
+GVMAG-M-3300023184-180	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023184-180
+GVMAG-M-3300023184-51	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023184-51
+GVMAG-M-3300023184-65	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023184-65
+GVMAG-M-3300023184-72	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023184-72
+GVMAG-M-3300023184-86	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300023184-86
+GVMAG-M-3300024252-29	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300024252-29
+GVMAG-M-3300024258-14	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300024258-14
+GVMAG-M-3300024261-60	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300024261-60
+GVMAG-M-3300024277-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300024277-1
+GVMAG-M-3300024301-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300024301-20
+GVMAG-M-3300024312-6	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300024312-6
+GVMAG-M-3300024327-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300024327-2
+GVMAG-M-3300024502-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300024502-4
+GVMAG-M-3300025783-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300025783-2
+GVMAG-M-3300027707-10	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300027707-10
+GVMAG-M-3300027720-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300027720-8
+GVMAG-M-3300027746-18	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300027746-18
+GVMAG-M-3300027746-47	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300027746-47
+GVMAG-M-3300027770-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300027770-41
+GVMAG-M-3300027770-73	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300027770-73
+GVMAG-M-3300027804-36	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300027804-36
+GVMAG-M-3300027892-27	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300027892-27
+GVMAG-M-3300027892-73	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-M-3300027892-73
+GVMAG-S-1016722-115	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-1016722-115
+GVMAG-S-1035082-40	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-1035082-40
+GVMAG-S-1039716-42	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-1039716-42
+GVMAG-S-1101162-73	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-1101162-73
+GVMAG-S-1101162-85	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-1101162-85
+GVMAG-S-1101165-79	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-1101165-79
+GVMAG-S-1101165-81	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-1101165-81
+GVMAG-S-1101165-83	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-1101165-83
+GVMAG-S-1101169-102	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-1101169-102
+GVMAG-S-1101169-93	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-1101169-93
+GVMAG-S-1101181-100	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-1101181-100
+GVMAG-S-1101181-88	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-1101181-88
+GVMAG-S-3300000177-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-3300000177-8
+GVMAG-S-3300000929-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-3300000929-49
+GVMAG-S-3300005517-64	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-3300005517-64
+GVMAG-S-3300005645-37	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-3300005645-37
+GVMAG-S-3300013014-104	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-3300013014-104
+GVMAG-S-3300013014-88	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-3300013014-88
+GVMAG-S-3300013094-109	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-3300013094-109
+GVMAG-S-3300013132-210	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-3300013132-210
+GVMAG-S-404869-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-404869-41
+GVMAG-S-ERX556106-38	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		GVMAG-S-ERX556106-38
+SRX327520.410.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		SRX327520.410.dc
+SRX331950.15.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		SRX331950.15.dc
+SRX331950.31.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		SRX331950.31.dc
+SRX331950.43.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		SRX331950.43.dc
+SRX331965.24.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		SRX331965.24.dc
+SRX474032.22.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		SRX474032.22.dc
+SRX802077.162.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g336		SRX802077.162.dc
+GVMAG-M-3300023179-153	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g337		GVMAG-M-3300023179-153
+GVMAG-M-3300023184-167	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g337		GVMAG-M-3300023184-167
+GVMAG-M-3300023184-181	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g337		GVMAG-M-3300023184-181
+GVMAG-M-3300023184-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g337		GVMAG-M-3300023184-3
+GVMAG-M-3300027892-21	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g337		GVMAG-M-3300027892-21
+GVMAG-S-3300004128-22	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g337		GVMAG-S-3300004128-22
+GVMAG-S-3300010158-141	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g337		GVMAG-S-3300010158-141
+GVMAG-M-3300006922-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g338		GVMAG-M-3300006922-4
+GVMAG-M-3300017989-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g338		GVMAG-M-3300017989-16
+GVMAG-M-3300023179-71	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g338		GVMAG-M-3300023179-71
+GVMAG-M-3300025767-17	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g338		GVMAG-M-3300025767-17
+GVMAG-S-3300007519-203	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g338		GVMAG-S-3300007519-203
+ERX555926.27.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		ERX555926.27.dc
+ERX555965.56.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		ERX555965.56.dc
+GVMAG-M-3300001348-25	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-M-3300001348-25
+GVMAG-M-3300012936-15	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-M-3300012936-15
+GVMAG-M-3300012936-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-M-3300012936-19
+GVMAG-M-3300017735-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-M-3300017735-4
+GVMAG-M-3300018428-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-M-3300018428-16
+GVMAG-M-3300018876-24	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-M-3300018876-24
+GVMAG-M-3300022920-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-M-3300022920-41
+GVMAG-M-3300024261-42	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-M-3300024261-42
+GVMAG-M-3300025880-76	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-M-3300025880-76
+GVMAG-S-1016713-123	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-S-1016713-123
+GVMAG-S-1074262-51	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-S-1074262-51
+GVMAG-S-1102244-53	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-S-1102244-53
+GVMAG-S-ERX556019-34	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		GVMAG-S-ERX556019-34
+SRX802073.99.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		SRX802073.99.dc
+SRX802202.1.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		SRX802202.1.dc
+SRX802202.55.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g339		SRX802202.55.dc
+ERX552255.28.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g340		ERX552255.28.dc
+ERX556031.10.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g340		ERX556031.10.dc
+GVMAG-M-3300012920-24	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g340		GVMAG-M-3300012920-24
+GVMAG-M-3300020166-18	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g340		GVMAG-M-3300020166-18
+GVMAG-M-3300023210-27	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g340		GVMAG-M-3300023210-27
+ERX633356.44.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		ERX633356.44.dc
+GVMAG-M-3300001348-24	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300001348-24
+GVMAG-M-3300005613-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300005613-8
+GVMAG-M-3300009159-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300009159-41
+GVMAG-M-3300009161-34	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300009161-34
+GVMAG-M-3300009161-36	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300009161-36
+GVMAG-M-3300009163-63	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300009163-63
+GVMAG-M-3300020185-109	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300020185-109
+GVMAG-M-3300020187-58	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300020187-58
+GVMAG-M-3300021185-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300021185-19
+GVMAG-M-3300021185-45	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300021185-45
+GVMAG-M-3300021389-31	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300021389-31
+GVMAG-M-3300021961-60	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300021961-60
+GVMAG-M-3300023174-199	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300023174-199
+GVMAG-M-3300023174-32	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300023174-32
+GVMAG-M-3300023174-79	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300023174-79
+GVMAG-M-3300023179-121	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300023179-121
+GVMAG-M-3300023179-68	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300023179-68
+GVMAG-M-3300023184-18	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300023184-18
+GVMAG-M-3300023184-191	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300023184-191
+GVMAG-M-3300023184-58	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300023184-58
+GVMAG-M-3300027736-43	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300027736-43
+GVMAG-M-3300027769-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300027769-19
+GVMAG-M-3300027769-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300027769-4
+GVMAG-M-3300027770-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300027770-19
+GVMAG-M-3300027810-12	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300027810-12
+GVMAG-M-3300027833-22	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-M-3300027833-22
+GVMAG-S-1017268-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-S-1017268-20
+GVMAG-S-1035124-57	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-S-1035124-57
+GVMAG-S-1101169-110	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-S-1101169-110
+GVMAG-S-1101173-78	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-S-1101173-78
+GVMAG-S-1101177-100	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-S-1101177-100
+GVMAG-S-1101177-91	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-S-1101177-91
+GVMAG-S-1101181-91	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-S-1101181-91
+GVMAG-S-1102238-66	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-S-1102238-66
+GVMAG-S-3300007722-115	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-S-3300007722-115
+GVMAG-S-3300010157-88	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-S-3300010157-88
+GVMAG-S-3300012000-73	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g341		GVMAG-S-3300012000-73
+ERX288965.16.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		ERX288965.16.dc
+ERX552270.65.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		ERX552270.65.dc
+ERX552270.74.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		ERX552270.74.dc
+ERX556009.7.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		ERX556009.7.dc
+ERX556101.13.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		ERX556101.13.dc
+GCA.003333125.1.ASM333312v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		Organic Lake phycodnavirus 1 
+GCA.003333145.1.ASM333314v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		Organic Lake phycodnavirus 2 
+GVMAG-M-3300009159-65	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		GVMAG-M-3300009159-65
+GVMAG-M-3300009161-25	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		GVMAG-M-3300009161-25
+GVMAG-M-3300010368-35	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		GVMAG-M-3300010368-35
+GVMAG-M-3300012936-37	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		GVMAG-M-3300012936-37
+GVMAG-M-3300018868-14	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		GVMAG-M-3300018868-14
+GVMAG-M-3300021389-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		GVMAG-M-3300021389-2
+GVMAG-M-3300023174-107	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		GVMAG-M-3300023174-107
+GVMAG-M-3300023184-160	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		GVMAG-M-3300023184-160
+GVMAG-S-3300012919-55	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		GVMAG-S-3300012919-55
+GVMAG-S-ERX555907-102	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		GVMAG-S-ERX555907-102
+GVMAG-S-ERX555967-113	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		GVMAG-S-ERX555967-113
+GVMAG-S-ERX556009-51	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		GVMAG-S-ERX556009-51
+SRX802074.42.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g342		SRX802074.42.dc
+ERX288947.11.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX288947.11.dc
+ERX552256.7.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX552256.7.dc
+ERX552257.75.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX552257.75.dc
+ERX552270.100.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX552270.100.dc
+ERX552270.106.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX552270.106.dc
+ERX552270.62.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX552270.62.dc
+ERX552270.86.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX552270.86.dc
+ERX552274.30.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX552274.30.dc
+ERX552298.27.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX552298.27.dc
+ERX555963.29.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX555963.29.dc
+ERX555988.97.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX555988.97.dc
+ERX556037.25.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX556037.25.dc
+ERX556058.18.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		ERX556058.18.dc
+GCA.001399245.1.ViralProj298907	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		Chrysochromulina ericina virus CeV-01B
+GCA.006118515.1.ASM611851v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		Phaeocystis globosa virus 12T strain=12T
+GCA.006547245.1.ASM654724v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		Chrysochromulina parva virus BQ2
+GVMAG-M-3300005613-11	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300005613-11
+GVMAG-M-3300005613-15	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300005613-15
+GVMAG-M-3300005613-26	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300005613-26
+GVMAG-M-3300009163-35	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300009163-35
+GVMAG-M-3300012954-26	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300012954-26
+GVMAG-M-3300017742-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300017742-1
+GVMAG-M-3300017963-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300017963-20
+GVMAG-M-3300020187-47	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300020187-47
+GVMAG-M-3300020523-10	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300020523-10
+GVMAG-M-3300023174-116	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300023174-116
+GVMAG-M-3300023174-75	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300023174-75
+GVMAG-M-3300023184-187	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300023184-187
+GVMAG-M-3300024294-11	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300024294-11
+GVMAG-M-3300025849-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300025849-19
+GVMAG-M-3300025860-17	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300025860-17
+GVMAG-M-3300027621-7	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300027621-7
+GVMAG-M-3300027779-26	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-M-3300027779-26
+GVMAG-S-1035088-123	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-S-1035088-123
+GVMAG-S-1101173-83	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-S-1101173-83
+GVMAG-S-3300002153-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-S-3300002153-41
+GVMAG-S-3300013014-113	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-S-3300013014-113
+GVMAG-S-ERX555913-34	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-S-ERX555913-34
+GVMAG-S-ERX556022-25	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-S-ERX556022-25
+GVMAG-S-ERX556060-80	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-S-ERX556060-80
+GVMAG-S-ERX556133-39	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g343		GVMAG-S-ERX556133-39
+ERX289005.28.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		ERX289005.28.dc
+ERX289005.60.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		ERX289005.60.dc
+ERX552244.9.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		ERX552244.9.dc
+ERX552270.108.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		ERX552270.108.dc
+ERX552270.51.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		ERX552270.51.dc
+ERX552270.55.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		ERX552270.55.dc
+ERX552270.94.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		ERX552270.94.dc
+ERX552297.51.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		ERX552297.51.dc
+ERX552297.80.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		ERX552297.80.dc
+ERX552302.42.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		ERX552302.42.dc
+ERX556028.70.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		ERX556028.70.dc
+ERX556037.23.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		ERX556037.23.dc
+GVMAG-M-3300000115-18	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300000115-18
+GVMAG-M-3300005613-13	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300005613-13
+GVMAG-M-3300006165-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300006165-1
+GVMAG-M-3300006810-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300006810-8
+GVMAG-M-3300007522-11	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300007522-11
+GVMAG-M-3300018415-13	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300018415-13
+GVMAG-M-3300018416-45	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300018416-45
+GVMAG-M-3300020166-5	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300020166-5
+GVMAG-M-3300020185-39	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300020185-39
+GVMAG-M-3300020595-14	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300020595-14
+GVMAG-M-3300021371-30	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300021371-30
+GVMAG-M-3300021425-30	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300021425-30
+GVMAG-M-3300021961-40	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300021961-40
+GVMAG-M-3300023184-101	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300023184-101
+GVMAG-M-3300023184-161	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300023184-161
+GVMAG-M-3300023184-38	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300023184-38
+GVMAG-M-3300023184-40	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300023184-40
+GVMAG-M-3300023184-89	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300023184-89
+GVMAG-M-3300025890-48	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300025890-48
+GVMAG-M-3300025894-42	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300025894-42
+GVMAG-M-3300027754-9	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300027754-9
+GVMAG-M-3300027759-32	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300027759-32
+GVMAG-M-3300027833-11	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-M-3300027833-11
+GVMAG-S-1074260-58	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-S-1074260-58
+GVMAG-S-1092429-15	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-S-1092429-15
+GVMAG-S-1101172-98	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-S-1101172-98
+GVMAG-S-1103012-103	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-S-1103012-103
+GVMAG-S-3300000115-91	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-S-3300000115-91
+GVMAG-S-ERX556028-72	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		GVMAG-S-ERX556028-72
+SRX802189.102.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		SRX802189.102.dc
+SRX802189.37.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		SRX802189.37.dc
+SRX803008.123.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_01	IM_01	g344		SRX803008.123.dc
+GVMAG-M-3300015360-128	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_incertae_sedis	IM_02	g203		GVMAG-M-3300015360-128
+SRX310217.20.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_incertae_sedis	IM_02	g204		SRX310217.20.dc
+SRX310217.15.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_incertae_sedis	IM_02	g205		SRX310217.15.dc
+ERX552255.64.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_06	g270		ERX552255.64.dc
+GVMAG-S-ERX555957-35	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_06	g270		GVMAG-S-ERX555957-35
+SRX803008.112.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_06	g270		SRX803008.112.dc
+GVMAG-M-3300012920-30	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_06	g271		GVMAG-M-3300012920-30
+GVMAG-M-3300024329-18	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_06	g271		GVMAG-M-3300024329-18
+ERX552253.37.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_06	g272		ERX552253.37.dc
+GVMAG-M-3300001351-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g291		GVMAG-M-3300001351-8
+GVMAG-M-3300020187-27	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g291		GVMAG-M-3300020187-27
+GVMAG-M-3300021365-13	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g291		GVMAG-M-3300021365-13
+GVMAG-M-3300025138-11	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g291		GVMAG-M-3300025138-11
+GVMAG-M-3300027687-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g291		GVMAG-M-3300027687-8
+GVMAG-S-1017745-26	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g291		GVMAG-S-1017745-26
+SRX802143.100.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g291		SRX802143.100.dc
+ERX552270.97.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g292		ERX552270.97.dc
+ERX555933.5.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g292		ERX555933.5.dc
+ERX555967.32.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g292		ERX555967.32.dc
+GVMAG-M-3300026093-6	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g292		GVMAG-M-3300026093-6
+GVMAG-S-1062857-90	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g292		GVMAG-S-1062857-90
+GVMAG-S-3300009703-83	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g293		GVMAG-S-3300009703-83
+GVMAG-M-3300009706-33	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g294		GVMAG-M-3300009706-33
+GVMAG-M-3300013004-50	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g295		GVMAG-M-3300013004-50
+GVMAG-M-3300023179-117	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g295		GVMAG-M-3300023179-117
+GVMAG-M-3300023179-123	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g295		GVMAG-M-3300023179-123
+GVMAG-M-3300009163-40	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g296		GVMAG-M-3300009163-40
+GVMAG-M-3300027736-24	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_07	IM_07	g296		GVMAG-M-3300027736-24
+GVMAG-M-3300000115-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g283		GVMAG-M-3300000115-19
+SRX802073.13.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g283		SRX802073.13.dc
+GVMAG-M-3300023174-204	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g284		GVMAG-M-3300023174-204
+GVMAG-M-3300023184-13	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g284		GVMAG-M-3300023184-13
+GVMAG-M-3300023184-27	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g284		GVMAG-M-3300023184-27
+GVMAG-M-3300025822-14	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g284		GVMAG-M-3300025822-14
+GVMAG-S-1091232-121	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g284		GVMAG-S-1091232-121
+ERX555933.51.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g285		ERX555933.51.dc
+GVMAG-M-3300023179-150	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g286		GVMAG-M-3300023179-150
+ChoanoV.1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g287		ChoanoV.1
+ERX555915.1.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g287		ERX555915.1.dc
+GVMAG-M-3300021958-5	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g287		GVMAG-M-3300021958-5
+GVMAG-M-3300025860-25	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g287		GVMAG-M-3300025860-25
+SRX802202.7.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g287		SRX802202.7.dc
+ERX552287.8.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g288		ERX552287.8.dc
+GVMAG-M-3300020165-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g288		GVMAG-M-3300020165-16
+GVMAG-M-3300020185-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g288		GVMAG-M-3300020185-3
+GVMAG-M-3300021958-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g288		GVMAG-M-3300021958-1
+SRX802077.138.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g288		SRX802077.138.dc
+GVMAG-M-3300024252-35	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g289		GVMAG-M-3300024252-35
+SRX802189.83.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g289		SRX802189.83.dc
+ERX552287.77.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_08	IM_08	g290		ERX552287.77.dc
+ERX552270.35.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g273		ERX552270.35.dc
+ERX552270.38.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g273		ERX552270.38.dc
+GVMAG-M-3300010368-17	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g273		GVMAG-M-3300010368-17
+GVMAG-M-3300020595-32	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g273		GVMAG-M-3300020595-32
+GVMAG-S-ERX555967-140	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g273		GVMAG-S-ERX555967-140
+ERX555931.51.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		ERX555931.51.dc
+ERX555954.49.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		ERX555954.49.dc
+ERX556094.31.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		ERX556094.31.dc
+GVMAG-M-3300009785-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		GVMAG-M-3300009785-4
+GVMAG-M-3300021185-27	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		GVMAG-M-3300021185-27
+GVMAG-M-3300022920-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		GVMAG-M-3300022920-3
+GVMAG-M-3300023109-37	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		GVMAG-M-3300023109-37
+GVMAG-M-3300023110-7	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		GVMAG-M-3300023110-7
+GVMAG-M-3300027779-53	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		GVMAG-M-3300027779-53
+GVMAG-S-1016728-84	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		GVMAG-S-1016728-84
+GVMAG-S-3300010316-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		GVMAG-S-3300010316-20
+GVMAG-S-ERX555954-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		GVMAG-S-ERX555954-49
+GVMAG-S-ERX555967-130	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		GVMAG-S-ERX555967-130
+GVMAG-S-ERX556126-94	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		GVMAG-S-ERX556126-94
+SRX802143.55.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g274		SRX802143.55.dc
+ERX552264.38.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g275		ERX552264.38.dc
+ERX552270.36.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g275		ERX552270.36.dc
+GVMAG-M-3300023110-24	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g275		GVMAG-M-3300023110-24
+GVMAG-M-3300023210-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g275		GVMAG-M-3300023210-4
+GVMAG-S-ERX555947-70	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g275		GVMAG-S-ERX555947-70
+GVMAG-S-ERX556126-98	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g275		GVMAG-S-ERX556126-98
+ERX552241.31.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		ERX552241.31.dc
+ERX555907.104.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		ERX555907.104.dc
+ERX555935.132.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		ERX555935.132.dc
+GVMAG-M-3300017824-10	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		GVMAG-M-3300017824-10
+GVMAG-M-3300023109-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		GVMAG-M-3300023109-49
+GVMAG-S-ERX555907-90	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		GVMAG-S-ERX555907-90
+GVMAG-S-ERX555907-92	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		GVMAG-S-ERX555907-92
+GVMAG-S-ERX555907-94	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		GVMAG-S-ERX555907-94
+GVMAG-S-ERX555931-87	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		GVMAG-S-ERX555931-87
+GVMAG-S-ERX555935-135	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		GVMAG-S-ERX555935-135
+GVMAG-S-ERX556063-42	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		GVMAG-S-ERX556063-42
+GVMAG-S-ERX556063-48	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		GVMAG-S-ERX556063-48
+SRX802074.61.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g276		SRX802074.61.dc
+ERX552270.107.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g277		ERX552270.107.dc
+GVMAG-M-3300020187-37	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g277		GVMAG-M-3300020187-37
+SRX802073.24.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g277		SRX802073.24.dc
+SRX802963.50.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_05	IM_09	g277		SRX802963.50.dc
+ERX552302.1.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g278	Aureococcaviridae	ERX552302.1.dc
+GCA.000922335.1.ViralProj258005	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g278	Aureococcaviridae	Aureococcus anophagefferens virus BtV-01
+GVMAG-M-3300017763-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g278	Aureococcaviridae	GVMAG-M-3300017763-4
+GVMAG-S-405408-21	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g278	Aureococcaviridae	GVMAG-S-405408-21
+ERX552255.7.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g279	Aureococcaviridae	ERX552255.7.dc
+ERX552270.10.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g279	Aureococcaviridae	ERX552270.10.dc
+ERX552270.42.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g279	Aureococcaviridae	ERX552270.42.dc
+ERX552270.56.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g279	Aureococcaviridae	ERX552270.56.dc
+ERX552270.76.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g279	Aureococcaviridae	ERX552270.76.dc
+ERX556005.37.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g279	Aureococcaviridae	ERX556005.37.dc
+ERX556103.23.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g279	Aureococcaviridae	ERX556103.23.dc
+GVMAG-S-1024976-23	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g279	Aureococcaviridae	GVMAG-S-1024976-23
+GVMAG-S-ERX555907-63	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g279	Aureococcaviridae	GVMAG-S-ERX555907-63
+GVMAG-S-ERX555961-36	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g279	Aureococcaviridae	GVMAG-S-ERX555961-36
+GVMAG-S-ERX555987-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g279	Aureococcaviridae	GVMAG-S-ERX555987-49
+ERX555941.31.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g280	Aureococcaviridae	ERX555941.31.dc
+SRX802076.48.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g281	Aureococcaviridae	SRX802076.48.dc
+ERX552257.96.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_09	IM_09	g282	Aureococcaviridae	ERX552257.96.dc
+GVMAG-M-3300013093-48	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g297		GVMAG-M-3300013093-48
+GVMAG-S-1101164-76	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g297		GVMAG-S-1101164-76
+GVMAG-S-3300012000-62	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g297		GVMAG-S-3300012000-62
+GVMAG-S-3300013094-100	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g297		GVMAG-S-3300013094-100
+GVMAG-S-3300013285-36	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g297		GVMAG-S-3300013285-36
+GCA.011604445.1.ASM1160444v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g298		Dishui Lake large algae virus 1 
+GVMAG-S-1026894-48	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g298		GVMAG-S-1026894-48
+GVMAG-M-3300009001-5	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g299		GVMAG-M-3300009001-5
+GVMAG-M-3300021962-46	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g299		GVMAG-M-3300021962-46
+GVMAG-S-1035085-42	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g299		GVMAG-S-1035085-42
+ERX552270.61.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		ERX552270.61.dc
+ERX555958.4.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		ERX555958.4.dc
+ERX556059.13.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		ERX556059.13.dc
+ERX556091.17.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		ERX556091.17.dc
+ERX556133.24.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		ERX556133.24.dc
+GVMAG-M-3300000117-10	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300000117-10
+GVMAG-M-3300002404-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300002404-2
+GVMAG-M-3300006190-14	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300006190-14
+GVMAG-M-3300007236-6	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300007236-6
+GVMAG-M-3300009051-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300009051-3
+GVMAG-M-3300009164-67	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300009164-67
+GVMAG-M-3300010158-15	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300010158-15
+GVMAG-M-3300010299-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300010299-8
+GVMAG-M-3300010354-31	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300010354-31
+GVMAG-M-3300010370-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300010370-19
+GVMAG-M-3300013004-38	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300013004-38
+GVMAG-M-3300017788-50	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300017788-50
+GVMAG-M-3300017824-14	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300017824-14
+GVMAG-M-3300017956-25	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300017956-25
+GVMAG-M-3300018420-25	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300018420-25
+GVMAG-M-3300020554-7	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300020554-7
+GVMAG-M-3300020565-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300020565-3
+GVMAG-M-3300020727-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300020727-4
+GVMAG-M-3300021958-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300021958-16
+GVMAG-M-3300021962-56	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300021962-56
+GVMAG-M-3300021962-60	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300021962-60
+GVMAG-M-3300021964-56	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300021964-56
+GVMAG-M-3300021964-9	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300021964-9
+GVMAG-M-3300023174-30	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300023174-30
+GVMAG-M-3300023174-77	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300023174-77
+GVMAG-M-3300023179-26	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300023179-26
+GVMAG-M-3300023179-31	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300023179-31
+GVMAG-M-3300023184-60	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300023184-60
+GVMAG-M-3300025695-21	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300025695-21
+GVMAG-M-3300027746-30	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300027746-30
+GVMAG-M-3300027763-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300027763-16
+GVMAG-M-3300027763-29	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300027763-29
+GVMAG-M-3300027769-26	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300027769-26
+GVMAG-M-3300027804-47	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300027804-47
+GVMAG-M-3300027963-21	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-M-3300027963-21
+GVMAG-S-1006661-62	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-1006661-62
+GVMAG-S-1017394-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-1017394-19
+GVMAG-S-1017397-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-1017397-20
+GVMAG-S-1037377-56	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-1037377-56
+GVMAG-S-1040241-154	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-1040241-154
+GVMAG-S-1055481-12	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-1055481-12
+GVMAG-S-1091229-144	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-1091229-144
+GVMAG-S-1101162-81	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-1101162-81
+GVMAG-S-1101165-58	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-1101165-58
+GVMAG-S-1101178-73	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-1101178-73
+GVMAG-S-1101180-64	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-1101180-64
+GVMAG-S-1101180-74	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-1101180-74
+GVMAG-S-3300010157-108	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-3300010157-108
+GVMAG-S-403982-43	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-403982-43
+GVMAG-S-ERX556091-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g300		GVMAG-S-ERX556091-19
+ERX552270.89.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g301		ERX552270.89.dc
+GVMAG-M-3300021379-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g301		GVMAG-M-3300021379-1
+GVMAG-M-3300023109-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g301		GVMAG-M-3300023109-20
+GVMAG-M-3300023170-28	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g301		GVMAG-M-3300023170-28
+GVMAG-S-ERX555927-53	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g301		GVMAG-S-ERX555927-53
+SRX802189.96.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g301		SRX802189.96.dc
+GVMAG-M-3300021964-8	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g302		GVMAG-M-3300021964-8
+GVMAG-M-3300018416-26	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g303		GVMAG-M-3300018416-26
+GVMAG-M-3300021964-36	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g303		GVMAG-M-3300021964-36
+ERX552270.116.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g304		ERX552270.116.dc
+GVMAG-M-3300002154-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g304		GVMAG-M-3300002154-3
+GVMAG-M-3300008012-32	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g304		GVMAG-M-3300008012-32
+GVMAG-S-1102237-47	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g304		GVMAG-S-1102237-47
+PoV01b	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g304		PoV01b
+ERX552261.23.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g305		ERX552261.23.dc
+GVMAG-M-3300024255-31	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g306		GVMAG-M-3300024255-31
+GVMAG-M-3300017967-22	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g307		GVMAG-M-3300017967-22
+GVMAG-S-1101162-72	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g308		GVMAG-S-1101162-72
+GVMAG-S-3300013285-28	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g308		GVMAG-S-3300013285-28
+GVMAG-M-3300010354-11	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g309		GVMAG-M-3300010354-11
+GVMAG-M-3300023174-208	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g309		GVMAG-M-3300023174-208
+GVMAG-M-3300017952-11	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g310		GVMAG-M-3300017952-11
+GVMAG-S-3300012000-76	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g310		GVMAG-S-3300012000-76
+GVMAG-M-3300020716-5	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g311		GVMAG-M-3300020716-5
+GVMAG-S-1035100-96	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g312		GVMAG-S-1035100-96
+GCA.003057795.1.ASM305779v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_12	IM_12	g313		Tetraselmis virus 1 
+GVMAG-M-3300005613-29	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g257		GVMAG-M-3300005613-29
+GVMAG-M-3300005613-38	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g257		GVMAG-M-3300005613-38
+GVMAG-M-3300005613-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g257		GVMAG-M-3300005613-41
+GVMAG-M-3300005613-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g257		GVMAG-M-3300005613-49
+GVMAG-M-3300023174-167	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g257		GVMAG-M-3300023174-167
+GVMAG-M-3300023184-64	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g257		GVMAG-M-3300023184-64
+SRX802143.64.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g257		SRX802143.64.dc
+GVMAG-M-3300017971-33	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g258		GVMAG-M-3300017971-33
+GVMAG-S-3300005613-42	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g258		GVMAG-S-3300005613-42
+GVMAG-S-3300005613-53	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g258		GVMAG-S-3300005613-53
+GVMAG-S-3300000115-46	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g259		GVMAG-S-3300000115-46
+SRX803008.78.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g259		SRX803008.78.dc
+ERX556058.46.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g260		ERX556058.46.dc
+GVMAG-M-3300011013-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g260		GVMAG-M-3300011013-19
+GVMAG-M-3300027788-41	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g260		GVMAG-M-3300027788-41
+GVMAG-M-3300005613-55	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g261		GVMAG-M-3300005613-55
+GVMAG-M-3300023112-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g262		GVMAG-M-3300023112-4
+GVMAG-M-3300023174-206	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g263		GVMAG-M-3300023174-206
+GVMAG-S-3300002466-75	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g263		GVMAG-S-3300002466-75
+GVMAG-M-3300005613-33	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g264		GVMAG-M-3300005613-33
+GVMAG-M-3300017963-10	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g265		GVMAG-M-3300017963-10
+GVMAG-M-3300005613-6	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g266		GVMAG-M-3300005613-6
+GVMAG-M-3300017963-43	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g267		GVMAG-M-3300017963-43
+SRX802077.35.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g268		SRX802077.35.dc
+GVMAG-S-1074262-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_13	IM_13	g269		GVMAG-S-1074262-49
+GVMAG-M-3300017963-13	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_14	IM_14	g248		GVMAG-M-3300017963-13
+GVMAG-S-1035435-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_14	IM_14	g249		GVMAG-S-1035435-20
+GVMAG-M-3300009169-14	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_14	IM_14	g250		GVMAG-M-3300009169-14
+GVMAG-M-3300014204-73	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_14	IM_14	g250		GVMAG-M-3300014204-73
+SRX559902.76.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_14	IM_14	g250		SRX559902.76.dc
+GVMAG-M-3300025727-45	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_14	IM_14	g251		GVMAG-M-3300025727-45
+GVMAG-M-3300025860-20	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_14	IM_14	g252		GVMAG-M-3300025860-20
+GVMAG-M-3300017987-33	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_14	IM_14	g253		GVMAG-M-3300017987-33
+ERX556315.47.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_14	IM_14	g254		ERX556315.47.dc
+GVMAG-M-3300013127-28	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_14	IM_14	g255		GVMAG-M-3300013127-28
+GVMAG-M-3300023184-36	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_14	IM_14	g256		GVMAG-M-3300023184-36
+GVMAG-M-3300017788-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g209	Mimiviridae	GVMAG-M-3300017788-2
+GVMAG-M-3300017788-7	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g210	Mimiviridae	GVMAG-M-3300017788-7
+GVMAG-M-3300023174-174	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g210	Mimiviridae	GVMAG-M-3300023174-174
+GVMAG-M-3300023174-97	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g210	Mimiviridae	GVMAG-M-3300023174-97
+GVMAG-S-1035085-51	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g211	Mimiviridae	GVMAG-S-1035085-51
+GVMAG-M-3300023174-55	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g212	Mimiviridae	GVMAG-M-3300023174-55
+GVMAG-M-3300023174-136	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g213	Mimiviridae	GVMAG-M-3300023174-136
+GVMAG-M-3300023174-205	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g213	Mimiviridae	GVMAG-M-3300023174-205
+GVMAG-M-3300023179-145	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g213	Mimiviridae	GVMAG-M-3300023179-145
+GVMAG-M-3300023179-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g213	Mimiviridae	GVMAG-M-3300023179-4
+GVMAG-M-3300023184-43	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g213	Mimiviridae	GVMAG-M-3300023184-43
+GVMAG-M-3300023179-115	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g214	Mimiviridae	GVMAG-M-3300023179-115
+GVMAG-M-3300023184-104	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g214	Mimiviridae	GVMAG-M-3300023184-104
+GVMAG-S-1035348-10	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g214	Mimiviridae	GVMAG-S-1035348-10
+ERX288947.23.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g215	Mimiviridae	ERX288947.23.dc
+ERX555926.32.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g215	Mimiviridae	ERX555926.32.dc
+GVMAG-M-3300001348-16	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g215	Mimiviridae	GVMAG-M-3300001348-16
+GVMAG-M-3300020165-43	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g215	Mimiviridae	GVMAG-M-3300020165-43
+GVMAG-M-3300025880-17	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g215	Mimiviridae	GVMAG-M-3300025880-17
+GVMAG-S-ERX555967-93	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g215	Mimiviridae	GVMAG-S-ERX555967-93
+ERX552255.53.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g216	Mimiviridae	ERX552255.53.dc
+GVMAG-M-3300009697-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g217	Mimiviridae	GVMAG-M-3300009697-1
+GCA.003814085.1.ASM381408v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g218	Mimiviridae	Faunusvirus sp. 
+ERX552254.13.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g219	Mimiviridae	ERX552254.13.dc
+ERX555952.65.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g219	Mimiviridae	ERX555952.65.dc
+GVMAG-M-3300025622-31	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g219	Mimiviridae	GVMAG-M-3300025622-31
+ERX552256.53.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g220	Mimiviridae	ERX552256.53.dc
+GVMAG-M-3300022752-81	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g220	Mimiviridae	GVMAG-M-3300022752-81
+GVMAG-M-3300023184-177	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g220	Mimiviridae	GVMAG-M-3300023184-177
+GVMAG-M-3300024261-33	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g220	Mimiviridae	GVMAG-M-3300024261-33
+mPacV.611	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g220	Mimiviridae	mPacV.611
+GVMAG-M-3300020185-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g221	Mimiviridae	GVMAG-M-3300020185-49
+GVMAG-M-3300007522-15	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g222	Mimiviridae	GVMAG-M-3300007522-15
+GVMAG-M-3300007522-31	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g222	Mimiviridae	GVMAG-M-3300007522-31
+GVMAG-M-3300013005-61	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g222	Mimiviridae	GVMAG-M-3300013005-61
+GVMAG-M-3300023174-31	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g222	Mimiviridae	GVMAG-M-3300023174-31
+GVMAG-M-3300023174-43	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g222	Mimiviridae	GVMAG-M-3300023174-43
+GVMAG-M-3300023179-2	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g222	Mimiviridae	GVMAG-M-3300023179-2
+GVMAG-M-3300023179-82	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g222	Mimiviridae	GVMAG-M-3300023179-82
+GVMAG-S-3300013131-116	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g222	Mimiviridae	GVMAG-S-3300013131-116
+GVMAG-M-3300023179-54	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g223	Mimiviridae	GVMAG-M-3300023179-54
+GVMAG-M-3300023179-61	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g223	Mimiviridae	GVMAG-M-3300023179-61
+GVMAG-M-3300023184-183	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g223	Mimiviridae	GVMAG-M-3300023184-183
+GVMAG-M-3300022752-33	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g224	Mimiviridae	GVMAG-M-3300022752-33
+GVMAG-M-3300023174-131	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g224	Mimiviridae	GVMAG-M-3300023174-131
+GVMAG-S-1101165-51	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g224	Mimiviridae	GVMAG-S-1101165-51
+GCA.000889395.1.ViralProj59783	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g225	Mimiviridae	Cafeteria roenbergensis virus BV-PW1 strain=BV-PW1
+cPacV.1605	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g226	Mimiviridae	cPacV.1605
+SRX802077.79.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g226	Mimiviridae	SRX802077.79.dc
+oPacV.662	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g227	Mimiviridae	oPacV.662
+GCA.002966255.1.ASM296625v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g228	Mimiviridae	Hokovirus HKV1 
+GVMAG-M-3300022916-4	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g229	Mimiviridae	GVMAG-M-3300022916-4
+ERX552300.8.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g230	Mimiviridae	ERX552300.8.dc
+GVMAG-S-1004661-13	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g231	Mimiviridae	GVMAG-S-1004661-13
+Mimivirus.LCMiAC01	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g232	Mimiviridae	Mimivirus.LCMiAC01
+Mimivirus.LCMiAC02	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g232	Mimiviridae	Mimivirus.LCMiAC02
+GCA.002966215.1.ASM296621v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g233	Mimiviridae	Indivirus ILV1 
+GCA.002966275.1.ASM296627v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g233	Mimiviridae	Klosneuvirus KNV1 
+SRX696246.4.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g233	Mimiviridae	SRX696246.4.dc
+GCA.003814045.1.ASM381404v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g234	Mimiviridae	Dasosvirus sp. 
+GVMAG-M-3300023179-103	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g234	Mimiviridae	GVMAG-M-3300023179-103
+GVMAG-S-1015567-333	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g234	Mimiviridae	GVMAG-S-1015567-333
+GVMAG-S-3300013131-119	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g234	Mimiviridae	GVMAG-S-3300013131-119
+GVMAG-M-3300023179-27	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g235	Mimiviridae	GVMAG-M-3300023179-27
+GVMAG-S-1101174-64	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g236	Mimiviridae	GVMAG-S-1101174-64
+SRX327520.277.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g236	Mimiviridae	SRX327520.277.dc
+GCA.002966405.1.ASM296640v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g237	Mimiviridae	Bodo saltans virus strain=NG1
+GCA.003814065.1.ASM381406v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g238	Mimiviridae	Edafosvirus sp. 
+GCA.003814125.1.ASM381412v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g239	Mimiviridae	Harvfovirus sp. 
+GCA.003814165.1.ASM381416v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g239	Mimiviridae	Hyperionvirus sp. 
+GCA.003814265.1.ASM381426v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g239	Mimiviridae	Terrestrivirus sp. 
+GVMAG-M-3300009436-15	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g240	Mimiviridae	GVMAG-M-3300009436-15
+GCA.002966235.1.ASM296623v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g241	Mimiviridae	Catovirus CTV1 
+GVMAG-M-3300009169-13	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g242	Mimiviridae	GVMAG-M-3300009169-13
+SRX327520.331.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g242	Mimiviridae	SRX327520.331.dc
+GVMAG-M-3300010334-28	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g243	Mimiviridae	GVMAG-M-3300010334-28
+GVMAG-M-3300020187-22	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g244	Mimiviridae	GVMAG-M-3300020187-22
+SRX327520.21.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g245	Mimiviridae	SRX327520.21.dc
+GCA.000893915.1.ViralProj74349	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	Megavirus chiliensis 
+GCA.000904035.1.ViralProj186430	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	Acanthamoeba polyphaga moumouvirus strain=M10A
+GCA.002924545.1.ASM292454v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	Powai lake megavirus 
+GCA.002966375.1.ASM296637v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	Acanthamoeba polyphaga mimivirus strain=Kroon
+GCA.002966385.1.ASM296638v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	Acanthamoeba polyphaga mimivirus strain=Oyster
+GCA.002966435.1.ASM296643v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	Moumouvirus goulette 
+GCA.002966485.1.ASM296648v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	Tupanvirus soda lake soda lake
+GCA.003814185.1.ASM381418v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	Satyrvirus sp. 
+GCA.004151645.1.ASM415164v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	Mimivirus sp. SH 
+GCA.004156295.1.ASM415629v1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	Moumouvirus australiensis 10A
+GVMAG-M-3300020192-26	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	GVMAG-M-3300020192-26
+GVMAG-S-1014582-52	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	GVMAG-S-1014582-52
+GVMAG-S-3300009084-161	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_16	IM_16	g246	Mimiviridae	GVMAG-S-3300009084-161
+ERX682739.20.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g200		ERX682739.20.dc
+GVMAG-M-3300027798-19	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g200		GVMAG-M-3300027798-19
+GVMAG-S-1035082-103	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g200		GVMAG-S-1035082-103
+GVMAG-S-1091796-13	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g200		GVMAG-S-1091796-13
+GVMAG-S-3300013132-149	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g200		GVMAG-S-3300013132-149
+GVMAG-M-3300013132-70	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g200		GVMAG-M-3300013132-70
+GVMAG-M-3300017788-3	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g200		GVMAG-M-3300017788-3
+GVMAG-M-3300017788-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g200		GVMAG-M-3300017788-49
+GVMAG-M-3300021108-1	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g200		GVMAG-M-3300021108-1
+GVMAG-M-3300023174-68	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g200		GVMAG-M-3300023174-68
+GVMAG-S-3300013132-246	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g200		GVMAG-S-3300013132-246
+SRX330942.33.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g200		SRX330942.33.dc
+GVMAG-S-1045060-49	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_18	IM_18	g202		GVMAG-S-1045060-49
+ERX633347.22.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_incertae_sedis	IM_incertae_sedis	g206		ERX633347.22.dc
+ERX633345.33.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_incertae_sedis	IM_incertae_sedis	g207		ERX633345.33.dc
+GVMAG-S-1059906-5	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_incertae_sedis	IM_incertae_sedis	g208		GVMAG-S-1059906-5
+ERX552270.68.dc	#9400d3	8900FF	Nucleocytoviricota	Megaviricetes	Imitervirales	MC_incertae_sedis	IM_incertae_sedis	g247		ERX552270.68.dc
+GVMAG-M-3300014838-26	#8e8e8e	8E8E8E	Nucleocytoviricota	Pokkesviricetes	incertae_sedis	incertae_sedis	incertae_sedis	g39		GVMAG-M-3300014838-26
+GVMAG-M-3300025310-20	#8e8e8e	8E8E8E	Nucleocytoviricota	Pokkesviricetes	incertae_sedis	incertae_sedis	incertae_sedis	g40		GVMAG-M-3300025310-20
+GVMAG-S-3300009084-278	#8e8e8e	8E8E8E	Nucleocytoviricota	Pokkesviricetes	incertae_sedis	incertae_sedis	incertae_sedis	g41		GVMAG-S-3300009084-278
+GVMAG-M-3300025880-56	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	incertae_sedis	MAPI_incertae_sedis	incertae_sedis	g42		GVMAG-M-3300025880-56
+GVMAG-S-1041349-163	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	incertae_sedis	MAPI_incertae_sedis	incertae_sedis	g43		GVMAG-S-1041349-163
+GVMAG-M-3300017989-29	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_02	g153		GVMAG-M-3300017989-29
+GVMAG-M-3300018080-19	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_02	g154		GVMAG-M-3300018080-19
+GVMAG-M-3300017971-10	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_02	g155		GVMAG-M-3300017971-10
+ERX552288.49.dc	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_03	PV_03	g157		ERX552288.49.dc
+GVMAG-S-1074258-81	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_03	PV_03	g158		GVMAG-S-1074258-81
+ERX552302.38.dc	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_03	PV_03	g159		ERX552302.38.dc
+SRX802202.129.dc	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_03	PV_03	g160		SRX802202.129.dc
+GVMAG-S-3300010160-180	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_03	PV_incertae_sedis	g161		GVMAG-S-3300010160-180
+SRX802073.108.dc	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_03	PV_03	g162		SRX802073.108.dc
+GVMAG-S-ERX556028-76	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_03	PV_03	g163		GVMAG-S-ERX556028-76
+GCA.000911655.1.ViralProj213019	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_04	PV_04	g141	Pandoraviridae	Pandoravirus dulcis Melbourne
+GCA.000911955.1.ViralProj215788	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_04	PV_04	g141	Pandoraviridae	Pandoravirus salinus 
+GCA.000928575.1.ViralProj274798	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_04	PV_04	g141	Pandoraviridae	Pandoravirus inopinatum KlaHel
+GCA.003233895.1.ASM323389v1	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_04	PV_04	g141	Pandoraviridae	Pandoravirus quercus quercus
+GCA.003233915.1.ASM323391v1	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_04	PV_04	g141	Pandoraviridae	Pandoravirus neocaledonia neocaledonia
+GCA.003233935.1.ASM323393v1	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_04	PV_04	g141	Pandoraviridae	Pandoravirus macleodensis macleodensis
+GCA.001292995.1.ViralProj295679	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_04	PV_04	g142	Pandoraviridae	Mollivirus sibericum P1084-T
+ERX552277.13.dc	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_05	PV_05	g147	Coccolithoviridae	ERX552277.13.dc
+GVMAG-M-3300009496-9	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_05	PV_05	g148	Coccolithoviridae	GVMAG-M-3300009496-9
+GVMAG-S-3300010316-21	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_05	PV_05	g149	Coccolithoviridae	GVMAG-S-3300010316-21
+ERX552244.11.dc	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_05	PV_05	g150	Coccolithoviridae	ERX552244.11.dc
+GCA.010974655.1.ASM1097465v1	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_05	PV_05	g151	Coccolithoviridae	Emiliania huxleyi virus 202 strain=202
+GCA.010974675.1.ASM1097467v1	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_05	PV_05	g151	Coccolithoviridae	Emiliania huxleyi virus 207 strain=207
+GVMAG-S-ERX555915-91	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_05	PV_05	g151	Coccolithoviridae	GVMAG-S-ERX555915-91
+medusavirus	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_06	PV_incertae_sedis	g138		medusavirus
+ERX250271.266.dc	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_06	PV_incertae_sedis	g139		ERX250271.266.dc
+GVMAG-M-3300024510-1	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_06	PV_incertae_sedis	g140		GVMAG-M-3300024510-1
+GCA.000874805.1.ViralProj31093	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_incertae_sedis	g134		Feldmannia species virus FsV-158
+GCA.000839765.1.ViralProj14114	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_incertae_sedis	g135		Ectocarpus siliculosus virus 1 strain=EsV-1
+GVMAG-M-3300017989-17	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_incertae_sedis	g136		GVMAG-M-3300017989-17
+ERX555967.47.dc	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_incertae_sedis	g137		ERX555967.47.dc
+GVMAG-M-3300018080-53	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_incertae_sedis	g143		GVMAG-M-3300018080-53
+ERX682739.15.dc	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_incertae_sedis	g144		ERX682739.15.dc
+GVMAG-S-3300013131-216	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_incertae_sedis	g145		GVMAG-S-3300013131-216
+GVMAG-S-1091232-186	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_incertae_sedis	g146		GVMAG-S-1091232-186
+GVMAG-S-1103017-68	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_05	g152		GVMAG-S-1103017-68
+ERX552299.29.dc	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_incertae_sedis	g156		ERX552299.29.dc
+GVMAG-S-1016713-165	#8fce00	1FFF17	Nucleocytoviricota	Megaviricetes	Pandoravirales	EP_incertae_sedis	PV_incertae_sedis	g164		GVMAG-S-1016713-165
+GVMAG-M-3300009488-16	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g100		GVMAG-M-3300009488-16
+GVMAG-M-3300002367-2	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g101		GVMAG-M-3300002367-2
+GVMAG-S-1085360-44	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g102		GVMAG-S-1085360-44
+GVMAG-M-3300021964-16	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g103		GVMAG-M-3300021964-16
+GVMAG-S-3300001748-13	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g103		GVMAG-S-3300001748-13
+GVMAG-S-1016704-142	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g104		GVMAG-S-1016704-142
+ERX552261.56.dc	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g105		ERX552261.56.dc
+GVMAG-M-3300021473-4	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g105		GVMAG-M-3300021473-4
+GVMAG-M-3300023179-62	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g105		GVMAG-M-3300023179-62
+GVMAG-M-3300024319-1	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g105		GVMAG-M-3300024319-1
+GVMAG-M-3300025676-16	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g105		GVMAG-M-3300025676-16
+GVMAG-S-1016710-161	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g105		GVMAG-S-1016710-161
+GVMAG-S-3300010160-96	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g105		GVMAG-S-3300010160-96
+SRX802143.125.dc	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g105		SRX802143.125.dc
+GVMAG-M-3300013010-19	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g106		GVMAG-M-3300013010-19
+GVMAG-M-3300017783-9	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g106		GVMAG-M-3300017783-9
+ERX552261.5.dc	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g107		ERX552261.5.dc
+GVMAG-M-3300012953-22	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g107		GVMAG-M-3300012953-22
+GVMAG-S-1016713-169	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g107		GVMAG-S-1016713-169
+GVMAG-S-ERX556045-99	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g107		GVMAG-S-ERX556045-99
+SRX802189.61.dc	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g108		SRX802189.61.dc
+GVMAG-M-3300022752-15	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g109		GVMAG-M-3300022752-15
+GVMAG-M-3300023179-32	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g109		GVMAG-M-3300023179-32
+GVMAG-M-3300023179-45	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g109		GVMAG-M-3300023179-45
+GVMAG-M-3300023184-29	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g109		GVMAG-M-3300023184-29
+GVMAG-M-3300023179-83	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g110		GVMAG-M-3300023179-83
+GVMAG-M-3300023179-108	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g111		GVMAG-M-3300023179-108
+GVMAG-M-3300023184-134	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g112		GVMAG-M-3300023184-134
+GVMAG-S-3300010368-70	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g113		GVMAG-S-3300010368-70
+ERX552270.122.dc	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g114		ERX552270.122.dc
+GVMAG-S-1064195-113	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g114		GVMAG-S-1064195-113
+GVMAG-S-1041355-65	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g115		GVMAG-S-1041355-65
+GVMAG-M-3300023174-102	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g116		GVMAG-M-3300023174-102
+GVMAG-M-3300021364-5	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g117		GVMAG-M-3300021364-5
+GVMAG-S-3300002186-40	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g117		GVMAG-S-3300002186-40
+GVMAG-S-1101182-111	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g118		GVMAG-S-1101182-111
+GVMAG-S-3300013014-136	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g118		GVMAG-S-3300013014-136
+GVMAG-M-3300021516-3	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g119		GVMAG-M-3300021516-3
+GVMAG-M-3300023179-119	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g120		GVMAG-M-3300023179-119
+GVMAG-S-3300012000-65	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g83		GVMAG-S-3300012000-65
+GVMAG-M-3300023174-104	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g84		GVMAG-M-3300023174-104
+GVMAG-M-3300022752-50	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g85		GVMAG-M-3300022752-50
+GVMAG-M-3300023184-66	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g85		GVMAG-M-3300023184-66
+GVMAG-S-1101174-77	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g85		GVMAG-S-1101174-77
+GVMAG-M-3300009155-27	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g86		GVMAG-M-3300009155-27
+GVMAG-M-3300023184-71	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g86		GVMAG-M-3300023184-71
+GVMAG-M-3300013014-33	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g87		GVMAG-M-3300013014-33
+GVMAG-M-3300022752-26	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g87		GVMAG-M-3300022752-26
+GVMAG-M-3300023184-117	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g87		GVMAG-M-3300023184-117
+GVMAG-S-1101169-75	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g87		GVMAG-S-1101169-75
+GVMAG-M-3300009182-61	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g88		GVMAG-M-3300009182-61
+GVMAG-S-3300010158-109	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g89		GVMAG-S-3300010158-109
+GVMAG-S-3300011013-114	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g90		GVMAG-S-3300011013-114
+GVMAG-M-3300023210-3	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g91		GVMAG-M-3300023210-3
+ERX552270.117.dc	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g92		ERX552270.117.dc
+SRX802077.164.dc	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g93		SRX802077.164.dc
+GVMAG-S-1096109-37	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g94		GVMAG-S-1096109-37
+GVMAG-M-3300017991-11	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g95		GVMAG-M-3300017991-11
+GVMAG-S-1038524-41	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g95		GVMAG-S-1038524-41
+GVMAG-M-3300024502-1	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g96		GVMAG-M-3300024502-1
+GVMAG-S-1101172-105	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g96		GVMAG-S-1101172-105
+GVMAG-M-3300020201-24	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g97		GVMAG-M-3300020201-24
+GVMAG-M-3300005589-24	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g98		GVMAG-M-3300005589-24
+GVMAG-M-3300023174-172	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_01	PM_01	g99		GVMAG-M-3300023174-172
+GCA.000867605.1.ViralProj17721	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g127	Iridoviridae	Spodoptera frugiperda ascovirus 1a 
+GCA.000871485.1.ViralProj19151	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g127	Iridoviridae	Heliothis virescens ascovirus 3e 
+GCA.002818865.1.ASM281886v1	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g127	Iridoviridae	Heliothis virescens ascovirus 3f LD135790
+GCA.006451095.1.ASM645109v1	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g127	Iridoviridae	Trichoplusia ni ascovirus 6b TnAV-6b
+GCA.000881595.1.ViralProj32133	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g128	Iridoviridae	Diadromus pulchellus ascovirus 4a 
+GCA.000923155.1.ViralProj253719	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g129	Iridoviridae	Armadillidium vulgare iridescent virus 
+GCA.000838105.1.ViralProj14124	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g130	Iridoviridae	Invertebrate iridescent virus 6 
+GCA.900473875.1.DIV-1	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g131	Iridoviridae	Daphnia iridovirus 1 
+GCA.000869125.1.ViralProj17099	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g132	Iridoviridae	Aedes taeniorhynchus iridescent virus 
+GCA.000891235.1.ViralProj69999	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g132	Iridoviridae	Wiseana iridescent virus 
+GCA.000914535.1.ViralProj239736	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g132	Iridoviridae	Invertebrate iridovirus 25 
+GCA.000915575.1.ViralProj239738	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g132	Iridoviridae	Invertebrate iridescent virus 30 
+GCA.000918955.1.ViralProj243064	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_02	PM_02	g133	Iridoviridae	Anopheles minimus irodovirus AMIV
+GVMAG-S-1041355-83	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_03	PM_03	g121		GVMAG-S-1041355-83
+ERX943717.62.dc	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_03	PM_03	g122		ERX943717.62.dc
+GCA.004788555.1.ASM478855v1	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_03	PM_03	g122		Shrimp hemocyte iridescent virus 20141215
+GCA.002826585.1.ASM282658v1	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_03	PM_03	g123		European catfish virus strain=13051/2012
+GCA.006457375.1.ASM645737v1	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_03	PM_03	g123		Mandarin fish ranavirus strain=NH-1609
+GCA.000846905.1.ViralProj14544	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_03	PM_03	g124		Singapore grouper iridovirus 
+GCA.000839605.1.ViralProj14081	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_03	PM_03	g125		Lymphocystis disease virus 1 
+GCA.001974475.1.ViralProj368971	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_03	PM_03	g125		Lymphocystis disease virus Sa SA9
+GCA.011559005.1.ASM1155900v1	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_03	PM_03	g125		Lymphocystis disease virus 2 strain=LCDV-JP_Oita_2018
+GCA.006451655.1.ASM645165v1	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_03	PM_03	g126		Three spot gourami iridovirus TRT15003
+GCA.011894875.1.ASM1189487v1	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_03	PM_03	g126		Red seabream iridovirus KagYT-96
+GVMAG-M-2140918012-1	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_04	PM_04	g78		GVMAG-M-2140918012-1
+GVMAG-M-3300023184-24	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_04	PM_04	g79		GVMAG-M-3300023184-24
+GVMAG-M-3300009182-9	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_04	PM_04	g80		GVMAG-M-3300009182-9
+GVMAG-M-3300023179-92	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_04	PM_04	g81		GVMAG-M-3300023179-92
+GCA.001602085.1.ViralProj316309	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_01	PM_05	g51	Marseilleviridae	Brazilian marseillevirus strain=BH2014
+GCA.001654305.1.ViralProj323872	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_01	PM_05	g51	Marseilleviridae	Tokyovirus A1 strain=Tokyovirus A1
+GCA.001806195.1.ViralProj349153	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_01	PM_05	g51	Marseilleviridae	Golden Marseillevirus strain=Golden
+GCA.002005685.1.ViralProj376058	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_01	PM_05	g51	Marseilleviridae	Noumeavirus NMV1
+GCA.002826725.1.ASM282672v1	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_01	PM_05	g51	Marseilleviridae	Tunisvirus fontaine2 strain=U484
+GCA.006465445.1.ASM646544v1	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_01	PM_05	g51	Marseilleviridae	Cannes 8 virus Cannes8
+GCA.006472045.1.ASM647204v1	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_01	PM_05	g51	Marseilleviridae	Port-miou virus 
+GVMAG-S-1062768-28	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_01	PM_05	g52	Marseilleviridae	GVMAG-S-1062768-28
+GVMAG-S-3300006056-271	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_01	PM_05	g52	Marseilleviridae	GVMAG-S-3300006056-271
+Marseillevirus.LCMAC103	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_02	PM_06	g44		Marseillevirus.LCMAC103
+GVMAG-S-1015567-928	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_02	PM_06	g45		GVMAG-S-1015567-928
+GVMAG-M-3300015360-154	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_02	PM_06	g46		GVMAG-M-3300015360-154
+Marseillevirus.LCMAC102	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_02	PM_06	g47		Marseillevirus.LCMAC102
+Marseillevirus.LCMAC101	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_02	PM_06	g48		Marseillevirus.LCMAC101
+GVMAG-M-3300005613-23	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_02	PM_06	g49		GVMAG-M-3300005613-23
+GVMAG-S-1029409-49	#3d85c6	FF2200	Nucleocytoviricota	Megaviricetes	Pimascovirales	MA_02	PM_06	g50		GVMAG-S-1029409-49
+GVMAG-M-3300025572-1	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g53	Pithoviridae	GVMAG-M-3300025572-1
+GCA.003814205.1.ASM381420v1	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g54	Pithoviridae	Solivirus sp. 
+Pithovirus.LCDPAC01	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g55	Pithoviridae	Pithovirus.LCDPAC01
+GVMAG-M-3300005987-10	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g56	Pithoviridae	GVMAG-M-3300005987-10
+GVMAG-S-1021933-23	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g57	Pithoviridae	GVMAG-S-1021933-23
+GVMAG-M-3300021389-12	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g58	Pithoviridae	GVMAG-M-3300021389-12
+GCA.002892525.1.ASM289252v1	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g59	Pithoviridae	Orpheovirus IHUMI-LCC2 strain=IHUMI-LCC2
+Pithovirus.LCPAC201	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g60	Pithoviridae	Pithovirus.LCPAC201
+Pithovirus.LCPAC202	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g60	Pithoviridae	Pithovirus.LCPAC202
+GVMAG-S-1096103-95	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g61	Pithoviridae	GVMAG-S-1096103-95
+Pithovirus.LCPAC304	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g61	Pithoviridae	Pithovirus.LCPAC304
+GCA.003814225.1.ASM381422v1	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g62	Pithoviridae	Solumvirus sp. 
+GVMAG-S-1104514-73	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g63	Pithoviridae	GVMAG-S-1104514-73
+GVMAG-S-3300007519-189	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g64	Pithoviridae	GVMAG-S-3300007519-189
+GCA.000916835.1.ViralProj237323	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g65	Pithoviridae	Pithovirus sibericum P1084-T
+GCA.001995575.1.ViralProj357483	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g66	Pithoviridae	Cedratvirus A11 strain=A11
+GCA.900205285.1.ASM90020528v1	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g66	Pithoviridae	Cedratvirus lausannensis 
+GCA.900323535.1.PRJEB25578	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g66	Pithoviridae	Brazilian cedratvirus IHUMI strain=IHUMI-27.7
+Pithovirus.LCPAC104	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g67	Pithoviridae	Pithovirus.LCPAC104
+Pithovirus.LCPAC401	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g68	Pithoviridae	Pithovirus.LCPAC401
+Pithovirus.LCPAC403	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g68	Pithoviridae	Pithovirus.LCPAC403
+Pithovirus.LCPAC406	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g68	Pithoviridae	Pithovirus.LCPAC406
+Pithovirus.LCPAC404	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g69	Pithoviridae	Pithovirus.LCPAC404
+GVMAG-S-1025707-429	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_01	PM_07	g70	Pithoviridae	GVMAG-S-1025707-429
+SRX247688.42.dc	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_02	PM_08	g71		SRX247688.42.dc
+GVMAG-M-3300014838-21	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_02	PM_08	g72		GVMAG-M-3300014838-21
+GVMAG-M-3300014838-63	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_02	PM_08	g73		GVMAG-M-3300014838-63
+GVMAG-M-3300021079-18	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_02	PM_08	g74		GVMAG-M-3300021079-18
+GVMAG-M-3300027790-3	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_02	PM_08	g75		GVMAG-M-3300027790-3
+Pithovirus.LCPAC101	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_03	PM_09	g76		Pithovirus.LCPAC101
+Marseillevirus.LCMAC201	#3d85c6	8E8E8E	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_03	PM_09	g77		Marseillevirus.LCMAC201
+Marseillevirus.LCMAC202	#3d85c6	8E8E8E	Nucleocytoviricota	Megaviricetes	Pimascovirales	PT_03	PM_09	g77		Marseillevirus.LCMAC202
+DhV1.fna	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	incertae_sedis	PM_10	g345	Mininucleoviridae	
+PaV1.fna	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	incertae_sedis	PM_10	g345	Mininucleoviridae	
+CmV1.fna	#3d85c6	a6cee3	Nucleocytoviricota	Megaviricetes	Pimascovirales	incertae_sedis	PM_10	g345	Mininucleoviridae	
+SRX802202.32.dc	#3d85c6	043DF9	Nucleocytoviricota	Megaviricetes	Pimascovirales	IR_incertae_sedis	PM_incertae_sedis	g82		SRX802202.32.dc
